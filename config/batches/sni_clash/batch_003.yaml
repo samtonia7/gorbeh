@@ -124,51 +124,73 @@ proxies:
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "humanity"
-    sni: "www.calmlunch.com"
+    password: "trojan"
+    sni: "store.timimi.dpdns.org"
     skip-cert-verify: true
     udp: true
+    client-fingerprint: "chrome"
     network: ws
     ws-opts:
-      path: "/assignment"
+      path: "/?ed=2560"
       headers:
-        Host: "www.calmlunch.com"
+        Host: "store.timimi.dpdns.org"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "d4ca8f1f-45b2-486c-8944-b6524887e656"
+    uuid: "f6431ff1-dec0-4a6c-be4a-ce917913b589"
     udp: true
     flow: "xtls-rprx-vision"
     tls: true
     skip-cert-verify: false
-    servername: "dl.google.com"
+    servername: "www.cloudflare.com"
     client-fingerprint: "chrome"
     reality-opts:
-      public-key: "YJBjpcuIbJ02pKPB2BMI64i_29nMBTI9jo2gdLX8zQg"
-      short-id: "16ab14"
+      public-key: "WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "fc965ad9-bdd7-4815-ad71-b39ec5972dc1"
+    uuid: "ac98c9f5-ef19-4bdd-9c5c-00244d7e2541"
+    udp: true
+    tls: true
+    skip-cert-verify: false
+    servername: "yahoo.com"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "vl5WQd9UDA3DvLxPPS1yF9ivUipxkxoxhaBRHpnyLho"
+      short-id: "67fb"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "5d42cfef-0556-4f0c-bfb7-161aef500ab5"
+    udp: true
+    tls: true
+    skip-cert-verify: false
+    servername: "lenovoglobal.com"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo"
+      short-id: "34"
+    network: grpc
+    grpc-opts:
+      grpc-service-name: ""
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "e5cc16a6-ea42-46b2-82ae-ad2157e1641b"
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: "octopusss4.com"
+    servername: "hhlfy.twiladaphne.ndjp.net"
+    client-fingerprint: "random"
     network: ws
     ws-opts:
-      path: "/tsghdws"
+      path: "/"
       headers:
-        Host: "octopusss4.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "telegram-id-privatevpns"
-    sni: "trojan.burgerip.co.uk"
-    skip-cert-verify: true
-    udp: true
+        Host: "hhlfy.twiladaphne.ndjp.net"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
@@ -187,63 +209,65 @@ proxies:
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
+    password: "7522e2c27233459aab8d0f1d715828d0"
+    sni: "www.gpt123.one"
     skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "ios"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "3d7b9be9-d378-4f76-90f8-032859eea47b"
     udp: true
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "8475ccf8-2464-4e1f-bf1e-656d2fc77ff7"
+    uuid: "8ad2869d-1571-45cc-8d02-10aea6d600ac"
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: "127.0.0.1"
+    servername: "partner.catchplay.com.cyylr.eu.cc"
     network: ws
     ws-opts:
-      path: "/ws"
+      path: "/ae-bo"
       headers:
-        Host: "netv.amirshee9090.workers.dev"
+        Host: "partner.catchplay.com.cyylr.eu.cc"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "0878c33b-ab5e-47f4-94ec-44206a08069c"
+    uuid: "a034c545-1356-438e-af20-9bf61fb72bff"
     udp: true
     flow: "xtls-rprx-vision"
     tls: true
     skip-cert-verify: false
-    servername: "www.tradingview.com"
+    servername: "www.akamai.com"
     client-fingerprint: "chrome"
     reality-opts:
-      public-key: "q42m1wg11kZLyRtjaKus8T-NNl1vriRG3V1eVTL6ICc"
-      short-id: "0f1280fa579b"
+      public-key: "CCZBGndnbVVihvO87-qN_3oWFIYk9a3xpriHDJsJjj4"
+      short-id: "e7ec492a374eeab2"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "00000000-0000-4000-8000-000000000000"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "uq2ox3bplnlgtr.myto.ip-ddns.com"
+    network: ws
+    ws-opts:
+      path: "/@Marisa_kristifp=chrome"
+      headers:
+        Host: "uq2ox3bplnlgtr.myto.ip-ddns.com"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "15b84012-d261-4b4c-807a-061bb4a901fd"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "cloudcircus.jp"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
@@ -262,81 +286,15 @@ proxies:
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "593f4d6c-aff1-4832-87a7-b5d8e71584ea"
+    uuid: "e977d854-33f3-4345-abee-bf3fa9a6d880"
     udp: true
-    flow: "xtls-rprx-vision"
     tls: true
     skip-cert-verify: false
-    servername: "nl-1.nodes.ac"
-    client-fingerprint: "edge"
-    reality-opts:
-      public-key: "1No08-V3QYT4YvF4LQaxO4Iudxh29P6EBx0gyY7iwWU"
-      short-id: "a0f8704e09a31bb0"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "60d06568-b005-48bf-ba28-bac13b3a12ce"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "us2.wxgqlfx.xyz"
-    client-fingerprint: "chrome"
-    alpn: ["http/1.1"]
-    network: ws
-    ws-opts:
-      path: "/TG@wxgqlfx"
-      headers:
-        Host: "us2.wxgqlfx.xyz"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "03fcc618-b93d-6796-6aed-8a38c975d581"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "85.90.217.42"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "78.135.93.239"
-    network: ws
-    ws-opts:
-      path: "/proxy"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "106d20f6-d70a-40e2-b69b-8e82baf8d117"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "www.microsoft.com"
+    servername: "yahoo.com"
     client-fingerprint: "chrome"
     reality-opts:
-      public-key: "FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg"
-      short-id: "60500a63ad12"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "3ea2d8f2-12c1-4189-8cc5-91d0ee9f5ca0"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "queuev4.vk.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA"
-      short-id: "a1b2c3d4e5f6"
+      public-key: "lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0"
+      short-id: "3c"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
@@ -355,6 +313,33 @@ proxies:
     type: vless
     server: "127.0.0.1"
     port: 40443
+    uuid: "37a0bd7c-8b9f-4693-8916-bd1e2da0a817"
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "beichuan.serv00.net"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "c871b272-4bb8-4d52-a1a9-a94a19220aa0"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "us2.wxgqlfx.xyz"
+    client-fingerprint: "chrome"
+    alpn: ["http/1.1"]
+    network: ws
+    ws-opts:
+      path: "/TG@wxgqlfx"
+      headers:
+        Host: "us2.wxgqlfx.xyz"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
     uuid: "827466ba-0910-4c48-b156-2f37fdbda362"
     udp: true
     flow: "xtls-rprx-vision"
@@ -369,108 +354,686 @@ proxies:
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "08f96221-9b7b-4e6f-8ffe-aee8b9c9b504"
+    uuid: "9287f532-4150-48ff-a755-64b21e30e9c3"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "cms-res-web.online.sberbank.ru"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "eP0MKUFOcNVSVFbHT8GgBLP4LIHZFq8JuVGlCAlH1HI"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "a845ce7c-ea10-47b0-8de4-92810260eeab"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "mozilla.org"
+    client-fingerprint: "random"
+    reality-opts:
+      public-key: "TNsQJHoX2M2u07a6oEPb3tY9U08Aph4Qvdk76dAZdio"
+      short-id: "82ed5803a8047a3e"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "4f4d1167-ef14-4304-9bce-0740472503ef"
+    sni: "gh.01.naiun.bilibili.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "4f4d1167-ef14-4304-9bce-0740472503ef"
+    sni: "az.01.naiun.bilibili.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "d78c12c4-6927-40b8-8550-ed9be00334da"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "germcxc.mooo.com"
+    client-fingerprint: "firefox"
+    reality-opts:
+      public-key: "AIcV5tI7708K2tSI2EKoHTRRYA2K1Ms4YXhBUB6v920"
+      short-id: "503256fc9803e84e"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "4b79c2ed-528b-45e4-8997-e5d9de81e8e2"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "www.sony.com"
+    client-fingerprint: "firefox"
+    reality-opts:
+      public-key: "DEvHMT3zhxUxnuqJxq88Z_8413kiseb7YtzU719D4kg"
+      short-id: "45cb8dfc393d9191"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "92ecaa18-1c6d-4eb3-943c-c904571106c5"
+    udp: true
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "e2e1ddaa-1acf-4c4c-a211-92284f6440ed"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "nll.scroogethebest.com"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc"
+      short-id: "4fa44664f6a566d3"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "45c8d20e-0222-4b16-8d21-37318456b980"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "itunes.apple.com"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "xHaPe5SLprSSqGccSor5d3tCRuwyowBwFeYrVXoSz3w"
+      short-id: "6ba85179e30d4fc2"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "4f4d1167-ef14-4304-9bce-0740472503ef"
+    sni: "de.01.naiun.bilibili.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "48d7e2e5-6ddc-434f-a5e5-c53b9e2f6301"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "ns.passwd.space"
+    client-fingerprint: "randomized"
+    reality-opts:
+      public-key: "KfKYcURcfQ207VZCXG4g2cxltWvG2Zk7j3WCjvpa8Sg"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "77777777-8a3e-6666-b6d1-a9c5f0e8b3a2"
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: "127.0.0.1"
+    servername: "fgnix832fx.fx6hsv0.ccwu.cc"
     network: ws
     ws-opts:
-      path: "/vless/"
+      path: "/"
+      headers:
+        Host: "fgnix832fx.fx6hsv0.ccwu.cc"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "25f86cb1-2140-4085-abcb-c3a0ea7a4be0"
+    uuid: "e5cc16a6-ea42-46b2-82ae-ad2157e1641b"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "hhlfy.twiladaphne.ndjp.net"
+    client-fingerprint: "random"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "hhlfy.twiladaphne.ndjp.net"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "BxceQaOe"
+    sni: "t.me/ripaojiedian"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "997b5119-c015-4203-b402-0eb0f60b77c3"
     udp: true
     network: ws
     ws-opts:
-      path: "/vless/"
+      path: "/ws"
+      headers:
+        Host: "nobody.fastspeed.ir"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "9b5cec5b-cda2-48e1-a7b3-d1d620b965db"
+    uuid: "49e9da45-aecc-463b-abe7-abfed1d2086b"
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/sg-orcl"
+      headers:
+        Host: "web.whatsapp.com.cyylr.eu.cc"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "4da72a60-61b9-4571-a054-1bba24bf6728"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "speedtest.net"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "nesfeshzksab.global.ssl.fastly.neT."
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "ae5ba4be-7262-4199-bd62-210ed8999b9f"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "poland-1.bexum.fun"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng"
+      short-id: "5dd747e98058584b"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "c55a51d9-48bd-11f1-941f-54db13ea7d40"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "cloudcdn-m9-15.cdn.yandex.net"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "APwi9yR-ezZtFU6xj2a3SBoXvEoWOoiRuZSit0N9xWI"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "Qx[Mend1^&t;{lrC"
+    sni: "PoLISHeD-uniOn-2ceD.FiLmiNo7425.WorKers.dEV"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/eyJqdW5rIjoiUExQc0pPeFIyclE1IiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19"
+      headers:
+        Host: "polished-union-2ced.filmino7425.workers.dev"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "77777777-8a3e-6666-b6d1-a9c5f0e8b3a2"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "fgnix832fx.fx6hsv0.ccwu.cc"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "fgnix832fx.fx6hsv0.ccwu.cc"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "0dc22208-cea4-4423-b3c3-a36957e23233"
     udp: true
     tls: true
     skip-cert-verify: false
-    servername: "www.tesla.com"
+    servername: "yahoo.com"
     client-fingerprint: "chrome"
     reality-opts:
-      public-key: "xLHrnePXhCu8lwffhkde0wn6fwJRE9OO6d8hakI2Gwc"
-      short-id: "d410dfdf35a66081"
-    network: grpc
-    grpc-opts:
-      grpc-service-name: "servicename"
+      public-key: "Zd5BqaW-kyJqZANUH2cIARr466QZw09pNngYjsEK1w8"
+      short-id: "30fa"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "af4b064a9c39472fb34ad8b113acdc6b"
+    sni: "139.84.133.199"
+    skip-cert-verify: true
+    udp: true
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "e277ac9b-3225-4381-a9fb-3585419f7142"
+    uuid: "afdb4da1-6c7f-489b-ab38-063f6d607ea0"
     udp: true
     tls: true
-    skip-cert-verify: true
-    servername: "35cdnws.frnstatic.info"
-    client-fingerprint: "firefox"
-    alpn: ["http/1.1"]
-    network: ws
-    ws-opts:
-      path: "/35cdnws"
-      headers:
-        Host: "35cdnws.frnstatic.info"
+    skip-cert-verify: false
+    servername: "api-maps.yandex.ru"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "1Ft21vrEzdxBXrTvxvxetfMqBrb-FtuSG1PDDhfCh2A"
+      short-id: "aaaa"
+    network: grpc
+    grpc-opts:
+      grpc-service-name: "api-maps.yandex.ru"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "a1fbffe9-8e5a-5a0e-9333-045d32eccd59"
+    uuid: "5e1083b9-4d4f-50ef-93e7-6e966dfce1f9"
     udp: true
     tls: true
     skip-cert-verify: false
     servername: "microsoft.com"
     client-fingerprint: "chrome"
     reality-opts:
-      public-key: "qYgTAtJIMVifoHx1N1YPJES2BRDQakcKuGJhDOswmy8"
-      short-id: "afb09616"
+      public-key: "EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw"
+      short-id: "972e3378"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "476caa1d-7c04-48ab-8de5-2c1af0d13a66"
+    uuid: "67eb6b17-7797-4ded-bf52-423c4c5f6cbd"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "www.foxsports.com"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY"
+      short-id: "91af08b1ce1f"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "69016f2a-91e4-43af-a4e0-c5ab03fb9c46"
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "www.google.com"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "76713d07-5a6b-49c2-abd8-bc450a2fa7fc"
     udp: true
     tls: true
     skip-cert-verify: false
-    servername: "yahoo.com"
+    servername: "down.spectrum.vu"
     client-fingerprint: "chrome"
     reality-opts:
-      public-key: "PYX0lu3m0L_h28eW4186s63gRFHXoTc3K9wKeFewDUQ"
-      short-id: "e9a8"
+      public-key: "ckd_LwbbFo8BYf9vT84B20P6EL1n6vl2yMxoXc6X4SA"
+      short-id: "f2a6d1c1e4b8"
+    network: grpc
+    grpc-opts:
+      grpc-service-name: "vless"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "4b9063e0-3288-44e9-9aac-80fbfce323a0"
+    uuid: "a5952e75-79f3-495d-b95d-5faa2452b5b8"
     udp: true
+    flow: "xtls-rprx-vision"
     tls: true
     skip-cert-verify: false
-    servername: "yahoo.com"
-    client-fingerprint: "chrome"
+    servername: "www.hollywoodreporter.com"
+    client-fingerprint: "qq"
     reality-opts:
-      public-key: "dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo"
-      short-id: "fa"
+      public-key: "WOPZy8oOnvHN21pLYobZAGa7sVp7op3q575B5BaFxkU"
+      short-id: "ba0f40f79197"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "94daa8ad-75ed-4dbf-a6de-d05036d98df5"
+    uuid: "14a59796-6db6-4c48-b4d5-2c7b875074c1"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "vk.ru"
+    client-fingerprint: "firefox"
+    reality-opts:
+      public-key: "rFb2hsGZE0KGim0_MMIfeKMnYTjKH2llqtN4uDUaTj0"
+      short-id: "4d05e319b074645b"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "0905460d-6edc-4a82-8ec8-6b76090b41c8"
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: "vangoghhh.info"
+    servername: "nginx-f.pages.dev"
+    client-fingerprint: "chrome"
     network: ws
     ws-opts:
-      path: "/tixvuws"
+      path: "/"
       headers:
-        Host: "vangoghhh.info"
+        Host: "nginx-f.pages.dev"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "f00984ef-f57e-41db-9182-b25f7bc3a1e2"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "newsw.stardevs.top"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "YU7hzDkfhfrA8v2rhMEUhgh7EQs4mHX9M60fkraccis"
+      short-id: "f37fb7531c60780d"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "bb2b0112-577f-4862-886a-3c2ee004ca23"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "5post-gate.x5.ru"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw"
+      short-id: "93ae75024604f796"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "kkzh2prsyr2ik47as615"
+    sni: "static.rutube.ru"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "77777777-8a3e-6666-b6d1-a9c5f0e8b3a2"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "fgnix832fx.fx6hsv0.ccwu.cc"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "fgnix832fx.fx6hsv0.ccwu.cc"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "jp.s3-cloud.org"
+    client-fingerprint: "edge"
+    reality-opts:
+      public-key: "QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs"
+      short-id: "7a3f9e2b1c8d4f6a"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "77777777-8a3e-6666-b6d1-a9c5f0e8b3a2"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "fgnix832fx.fx6hsv0.ccwu.cc"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "fgnix832fx.fx6hsv0.ccwu.cc"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "79149019-5abe-46f9-91ae-e1e7d1d2c408"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "www.techradar.com"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "4YLfHf90V012Oyd2wHbwAXaJNvNUGrKWmatTKc165U8"
+      short-id: "174c6cf22e22"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "ba2630d8-d6c4-49ff-b5d5-2c24330dd245"
+    udp: true
+    tls: true
+    skip-cert-verify: false
+    servername: "id.vk.com"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc"
+    network: grpc
+    grpc-opts:
+      grpc-service-name: "vless-grpc-reality"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "jp.s3-cloud.org"
+    client-fingerprint: "edge"
+    reality-opts:
+      public-key: "QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs"
+      short-id: "7a3f9e2b1c8d4f6a"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "106d20f6-d70a-40e2-b69b-8e82baf8d117"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "www.microsoft.com"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg"
+      short-id: "60500a63ad12"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "77777777-8a3e-6666-b6d1-a9c5f0e8b3a2"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "fgnix832fx.fx6hsv0.ccwu.cc"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "fgnix832fx.fx6hsv0.ccwu.cc"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "0eca1f22-e5a1-4888-a0fa-c2345e87cf2f"
+    udp: true
+    network: grpc
+    grpc-opts:
+      grpc-service-name: ""
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "1f937d79-75e1-40e4-b822-79acf5adb70f"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "ads.ruangguru.com.cyylr.eu.cc"
+    network: ws
+    ws-opts:
+      path: "/ae-bo"
+      headers:
+        Host: "ads.ruangguru.com.cyylr.eu.cc"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "it.s3-cloud.xyz"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY"
+      short-id: "7a3f9e2b1c8d4f6a"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "e5cc16a6-ea42-46b2-82ae-ad2157e1641b"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "hhlfy.twiladaphne.ndjp.net"
+    network: ws
+    ws-opts:
+      path: "/fp=random"
+      headers:
+        Host: "hhlfy.twiladaphne.ndjp.net"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "48ff2b70-e180-582f-8866-d9a2edeed5f5"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "fuck.rkn"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s"
+      short-id: "01"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "14a59796-6db6-4c48-b4d5-2c7b875074c1"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "vk.ru"
+    client-fingerprint: "firefox"
+    reality-opts:
+      public-key: "rFb2hsGZE0KGim0_MMIfeKMnYTjKH2llqtN4uDUaTj0"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "3d86df66-edf5-4751-92d8-3282acf7b024"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "rruu.persik.host"
+    client-fingerprint: "qq"
+    reality-opts:
+      public-key: "D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY"
+      short-id: "c1a7e9b4711d5f60"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "ee39fb11-56a3-4ee7-9e7c-35a4235bd30e"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "www.tradingview.com"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg"
+      short-id: "b27ba098687b"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "jp.s3-cloud.org"
+    client-fingerprint: "edge"
+    reality-opts:
+      public-key: "QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs"
+      short-id: "7a3f9e2b1c8d4f6a"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "tradingview.com"
+    client-fingerprint: "random"
+    reality-opts:
+      public-key: "k4CBDpxtQJjzRqC9y5q7xIC0TAoVkvFBlurn57G3wTs"
+      short-id: "8b5017a8"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
@@ -490,57 +1053,98 @@ proxies:
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "75e1fde7-6bf6-48ef-ba43-400e960e185b"
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/vless/"
-      headers:
-        Host: "pq-bosniaandherzegovina1.09vpn.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "ios"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "60d06568-b005-48bf-ba28-bac13b3a12ce"
+    uuid: "0e9dd08d-e341-4c5d-b116-923842f5a9f9"
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: "us2.wxgqlfx.xyz"
+    servername: "web.whatsapp.com.cyylr.eu.cc"
     client-fingerprint: "chrome"
-    alpn: ["http/1.1"]
     network: ws
     ws-opts:
-      path: "/TG@wxgqlfx"
+      path: "/sg-melbi"
       headers:
-        Host: "us2.wxgqlfx.xyz"
+        Host: "web.whatsapp.com.cyylr.eu.cc"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "9ee79303-e095-40f5-8fb8-363d87e90465"
+    uuid: "37c79fbe-861a-4725-a8e4-196e2d886e33"
     udp: true
     flow: "xtls-rprx-vision"
     tls: true
     skip-cert-verify: false
-    servername: "fastsync.xyz"
+    servername: "www.mozilla.org"
     client-fingerprint: "chrome"
     reality-opts:
-      public-key: "FQ-t1B16UdR6QYZyfYRf9PrD5JoEeCrkgRfM-doG4zY"
-      short-id: "1bc9bcde4b1ef645"
+      public-key: "4YLfHf90V012Oyd2wHbwAXaJNvNUGrKWmatTKc165U8"
+      short-id: "adedb70a7409"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "17451fec-af94-4715-8c2f-7f6839130d0a"
+    udp: true
+    tls: true
+    skip-cert-verify: false
+    servername: "tradingview.com"
+    client-fingerprint: "qq"
+    reality-opts:
+      public-key: "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0"
+      short-id: "53197c66aef53c44"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "0ddc1b7c-ce23-000a-8ede-8a9e19f02fb7"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "vrubg.mostserv.xyz"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI"
+      short-id: "226509f017e4c36d"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "it.s3-cloud.xyz"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY"
+      short-id: "7a3f9e2b1c8d4f6a"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51"
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/http"
+      headers:
+        Host: "de.vpnbase.net"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "7270612b-49f6-4b04-999c-34d8263da767"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "picassooo.info"
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/aymdlws"
+      headers:
+        Host: "picassooo.info"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
@@ -559,230 +1163,24 @@ proxies:
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "05519058-d2ac-4f28-9e4a-2b2a1386749e"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "trojan.burgerip.co.uk"
-    network: ws
-    ws-opts:
-      path: "/telegram-channel-vlessconfig"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "a8d37bf8-ff5b-4de8-8796-2de9c4072b41"
+    uuid: "c125e5df-e663-4a82-aff7-242dfc0917cf"
     udp: true
     flow: "xtls-rprx-vision"
     tls: true
     skip-cert-verify: false
-    servername: "dl.google.com"
+    servername: "www.microsoft.com"
     client-fingerprint: "chrome"
     reality-opts:
-      public-key: "Z4KPoACreOJdCsQLWh8Uy64m9NLOdCmkCNHDU5Td9Xc"
-      short-id: "dfd80b33"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "3dc68a32-43aa-4b5e-a60f-e11b27d03edc"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "www.google.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "XEOvGJLIn0iPDT1R71F8FCKet0XHg-NTn0sSxurlvV8"
-      short-id: "ce"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "6bc1bd81-b763-4213-80ad-4586224e3079"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "tohidza.et6m22266a.workers.dev"
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "tohidza.et6m22266a.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "8b6fa5e7-2583-4dcf-a589-f3924c685dbb"
-    sni: "HKNTT1.nauk.eu.cc"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/8b6fa5e7-2583-4dcf-a589-f3924c685dbb-tr"
-      headers:
-        Host: "HKNTT1.nauk.eu.cc"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "60d06568-b005-48bf-ba28-bac13b3a12ce"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "us2.wxgqlfx.xyz"
-    client-fingerprint: "chrome"
-    alpn: ["http/1.1"]
-    network: ws
-    ws-opts:
-      path: "/TG@wxgqlfx"
-      headers:
-        Host: "us2.wxgqlfx.xyz"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "f90cc83a-97ce-446d-8f80-30d3eef3351c"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "eh.vk.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc"
-      short-id: "6ba85179e30d4fc2"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "77777777-8a3e-6666-b6d1-a9c5f0e8b3a2"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "fgnix832fx.fx6hsv0.ccwu.cc"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "fgnix832fx.fx6hsv0.ccwu.cc"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "48ff2b70-e180-582f-8866-d9a2edeed5f5"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "fuck.rkn"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s"
-      short-id: "01"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "60d06568-b005-48bf-ba28-bac13b3a12ce"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "us2.wxgqlfx.xyz"
-    client-fingerprint: "chrome"
-    alpn: ["http/1.1"]
-    network: ws
-    ws-opts:
-      path: "/TG@wxgqlfx"
-      headers:
-        Host: "us2.wxgqlfx.xyz"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "Qx[Mend1^&t;{lrC"
-    sni: "PoLISHeD-uniOn-2ceD.FiLmiNo7425.WorKers.dEV"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/eyJqdW5rIjoiUExQc0pPeFIyclE1IiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19"
-      headers:
-        Host: "polished-union-2ced.filmino7425.workers.dev"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "e30ba9e9-afc6-4236-803f-7b4ca30ce44b"
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "pimxpass.alex96336997.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "1b9e301d-cecd-4eb1-8b36-eef811c2696d"
-    udp: true
-    tls: true
-    skip-cert-verify: false
-    servername: "yastatic.net"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc"
-      short-id: "5e841fab"
+      public-key: "Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE"
+      short-id: "fa29be70b72f"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
     port: 40443
     password: "4f4d1167-ef14-4304-9bce-0740472503ef"
-    sni: "is.01.naiun.bilibili.com"
+    sni: "de.01.naiun.bilibili.com"
     skip-cert-verify: true
     udp: true
-    client-fingerprint: "chrome"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
@@ -803,386 +1201,6 @@ proxies:
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "b042a503-3cb9-461f-994d-28a642133b5e"
-    udp: true
-    tls: true
-    skip-cert-verify: false
-    servername: "yahoo.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "heCmtLzcbUCR7Y1ZSomzRZpc45p9Qie9p_2W6Xw333A"
-      short-id: "c42db93ba6c62c"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "6ec6da0f-008b-43fa-899d-d5cf147fe13a"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "www.tradingview.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "q42m1wg11kZLyRtjaKus8T-NNl1vriRG3V1eVTL6ICc"
-      short-id: "1b8d2fb1eec1"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "jp.s3-cloud.org"
-    client-fingerprint: "edge"
-    reality-opts:
-      public-key: "QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs"
-      short-id: "7a3f9e2b1c8d4f6a"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "9f0285ee-20ca-4953-bcdb-86a920652923"
-    udp: true
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "1b43419a-b711-40d4-a0ee-eb5c73e60c92"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "pro.online.prostosetup.org"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "qBTTzM-_JJ5NDPfJc8_4StCYqeK4DpiZWEjxCf3KYXA"
-      short-id: "a96e9c98e60fd8d5"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "jp.s3-cloud.org"
-    client-fingerprint: "edge"
-    reality-opts:
-      public-key: "QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs"
-      short-id: "7a3f9e2b1c8d4f6a"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E"
-    sni: "172.235.63.252"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "a75c027c-dc95-4efd-894a-2c85f0186017"
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "oUAfbL8z87q-mhgjZ6g7mWQobf9=b7ut_F"
-    sni: "127.0.0.1"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "it.s3-cloud.xyz"
-    client-fingerprint: "edge"
-    reality-opts:
-      public-key: "zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY"
-      short-id: "7a3f9e2b1c8d4f6a"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "it.s3-cloud.xyz"
-    client-fingerprint: "edge"
-    reality-opts:
-      public-key: "zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY"
-      short-id: "7a3f9e2b1c8d4f6a"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "9f7a44b8-617c-46de-bbe0-152e52570d69"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "linksys.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "BagDycRtQvlxTnortyehYkwB6e-SJwboi2STJLKKAX8"
-      short-id: "99a9b78d171c04cb"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "it.s3-cloud.xyz"
-    client-fingerprint: "edge"
-    reality-opts:
-      public-key: "zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY"
-      short-id: "7a3f9e2b1c8d4f6a"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "60d06568-b005-48bf-ba28-bac13b3a12ce"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "us2.wxgqlfx.xyz"
-    client-fingerprint: "chrome"
-    alpn: ["http/1.1"]
-    network: ws
-    ws-opts:
-      path: "/TG@wxgqlfx"
-      headers:
-        Host: "us2.wxgqlfx.xyz"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "a1fbffe9-8e5a-5a0e-9333-045d32eccd59"
-    udp: true
-    tls: true
-    skip-cert-verify: false
-    servername: "microsoft.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "34gATkr8QhXe26zX625mas0MbhhG-1XSISJxwLtdt1k"
-      short-id: "17ee7ac1"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "2001daf3-5c56-4bef-8ea6-8dd0493c5a4c"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "www.deepl.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU"
-      short-id: "1a"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "d7dbeb1e-268c-465c-8f59-489f14703efd"
-    udp: true
-    tls: true
-    skip-cert-verify: false
-    servername: "yahoo.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk"
-      short-id: "910aab"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "f85f6c65-1b35-4c56-b766-80c5a4457b3e"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "nid.hatvpn.org"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "PfG1V1-ODHD8CegoTVg8m4G4mw5S1QiA751yWKCkhBc"
-      short-id: "054602d818379876"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "it.s3-cloud.xyz"
-    client-fingerprint: "edge"
-    reality-opts:
-      public-key: "zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY"
-      short-id: "7a3f9e2b1c8d4f6a"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "e03579b1-78bf-4bc9-aff4-88495ce8337d"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "www.yahoo.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "TxNBDL4s91n_LuPrklBN0Xan6R7_f-MEOxyt_E6tBUU"
-      short-id: "ce8f30"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "1b9e301d-cecd-4eb1-8b36-eef811c2696d"
-    udp: true
-    tls: true
-    skip-cert-verify: false
-    servername: "max.ru"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "zxzgWvYs4pMN3fEduth1soI1yMZDkynb1bBM4tj85EE"
-      short-id: "5e841fab"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "4f4d1167-ef14-4304-9bce-0740472503ef"
-    sni: "az.01.naiun.bilibili.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "c7f76f7f-c18b-4d53-9d83-126a45e008aa"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "store.steampowered.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "VgIDnaxHiXVWO1ZYdkAtRvkNe_Vo1aDJlXd_MztGMgw"
-      short-id: "cab62b248fd7c9"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "freedom"
-    sni: "042.eLEctrocElLCo-cf-042-Fe0.wOrkERs.deV"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/eyJqdW5rIjoiZ3JCVzl1T1ciLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119"
-      headers:
-        Host: "042.electrocellco-cf-042-fe0.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "mitivpn"
-    sni: "cdn.linkman1.ir"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings"
-      headers:
-        Host: "cdn.linkman1.ir"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "96fcf8cc-535d-46c4-b8f9-76058df48e3b"
-    udp: true
-    tls: true
-    skip-cert-verify: false
-    servername: "yahoo.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E"
-      short-id: "958639bf55e679"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "it.s3-cloud.xyz"
-    client-fingerprint: "edge"
-    reality-opts:
-      public-key: "zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY"
-      short-id: "7a3f9e2b1c8d4f6a"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "60d06568-b005-48bf-ba28-bac13b3a12ce"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "us2.wxgqlfx.xyz"
-    client-fingerprint: "chrome"
-    alpn: ["http/1.1"]
-    network: ws
-    ws-opts:
-      path: "/TG@wxgqlfx"
-      headers:
-        Host: "us2.wxgqlfx.xyz"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "931729a8-3c20-4841-89a1-f18dc9ce0a6f"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "cdn3-87.vk-cdnvideo.com"
-    client-fingerprint: "chrome"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
     uuid: "200290dc-8698-4284-a6e5-0ffd91be8589"
     udp: true
     flow: "xtls-rprx-vision"
@@ -1197,163 +1215,105 @@ proxies:
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "03fcc618-b93d-6796-6aed-8a38c975d581"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "45.92.70.236"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "06b65903-406d-4a41-8463-6fd5c0ee7798"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "sni.skylee4.cloudns.ch"
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/proxyip=ProxyIP.CMLiussss.net"
-      headers:
-        Host: "sni.skylee4.cloudns.ch"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
+    uuid: "a42c8b66-d0a7-4b49-9143-b98f1c84edba"
     udp: true
     flow: "xtls-rprx-vision"
     tls: true
     skip-cert-verify: false
-    servername: "it.s3-cloud.xyz"
-    client-fingerprint: "edge"
+    servername: "www.microsoft.com"
+    client-fingerprint: "chrome"
     reality-opts:
-      public-key: "zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY"
-      short-id: "7a3f9e2b1c8d4f6a"
+      public-key: "UDLhjunZjP-5A6KBMeuWe3qp_FusLAshcQIcCF7EZh8"
+      short-id: "ce9f790791426d83"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "60d06568-b005-48bf-ba28-bac13b3a12ce"
+    uuid: "a6f1755f-0140-4bea-8727-0db1bed7c4df"
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: "us2.wxgqlfx.xyz"
+    servername: "juzi.qea.ccwu.cc"
     client-fingerprint: "chrome"
-    alpn: ["http/1.1"]
     network: ws
     ws-opts:
-      path: "/TG@wxgqlfx"
+      path: "/?ed=2048"
       headers:
-        Host: "us2.wxgqlfx.xyz"
+        Host: "juzi.qea.ccwu.cc"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "a1fbffe9-8e5a-5a0e-9333-045d32eccd59"
+    uuid: "7131f38f-9a4a-4e38-ae1d-aa9e132265ea"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "proxy.wastech.org"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "931729a8-3c20-4841-89a1-f18dc9ce0a6f"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "127.0.0.1"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "53821f3c-5b03-456a-89f3-f8379f130752"
     udp: true
     tls: true
     skip-cert-verify: false
-    servername: "microsoft.com"
+    servername: "www.samsung.com"
     client-fingerprint: "chrome"
     reality-opts:
-      public-key: "pgPg0nR_TipYr_exLqa3gLOBLm6u_LCZLv9w6RC6iQ0"
-      short-id: "eb4b5cf9"
+      public-key: "fXdtB8vImCUJMQBLcCNK7p1v3rVzx6HllaDLk8Vc4EU"
+      short-id: "239dcd11"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "959b4df5-15bc-4eb8-8b93-95f6af50cd80"
+    uuid: "47777915-7325-44c1-8122-251f701f5cb0"
     udp: true
     flow: "xtls-rprx-vision"
     tls: true
     skip-cert-verify: false
-    servername: "by.api-yandex.net"
-    client-fingerprint: "firefox"
+    servername: "bitter-voice.empty-dust.ru"
+    client-fingerprint: "chrome"
     reality-opts:
-      public-key: "DjRqjdBkJgAG_le5Q14JXTki6m9XCsNKxgw74IB0kR4"
-      short-id: "0f4dacf62211e75f"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.creationlong.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.creationlong.org"
+      public-key: "5yR0iloe8gXWX6PghzeZoxy2j1IC0gC-1Rduw4fUzG8"
+      short-id: "5c472469282af031"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "e033ef6e-ab4b-47d4-a523-ff568d2c8dbb"
+    uuid: "48ff2b70-e180-582f-8866-d9a2edeed5f5"
     udp: true
     flow: "xtls-rprx-vision"
     tls: true
     skip-cert-verify: false
-    servername: "tradingview.com"
+    servername: "fuck.rkn"
     client-fingerprint: "chrome"
     reality-opts:
-      public-key: "TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI"
+      public-key: "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s"
+      short-id: "01"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "5dbfed06-dd62-48c0-8e39-b4835defcdb0"
+    uuid: "03bc875d-0d8e-49b6-9094-89a8159e65ee"
+    udp: true
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "931729a8-3c20-4841-89a1-f18dc9ce0a6f"
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: "investors.spotify.com.cyylr.eu.cc"
-    client-fingerprint: "chrome"
-    alpn: ["http/1.1"]
-    network: ws
-    ws-opts:
-      path: "/sg-amz"
-      headers:
-        Host: "investors.spotify.com.cyylr.eu.cc"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "1e280316-0408-47c4-b058-05b8f1f17f02"
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/vless/"
-      headers:
-        Host: "OV-Italy1.09vpn.com"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "de4f567a-1cf2-4b54-8a48-1c9ebe8a301a"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "www.techradar.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "4YLfHf90V012Oyd2wHbwAXaJNvNUGrKWmatTKc165U8"
-      short-id: "f39ed05da799"
+    servername: "cdn7-09.vk-cdnvideo.com"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -1362,6 +1322,7 @@ proxies:
     sni: "www.ignitelimit.com"
     skip-cert-verify: true
     udp: true
+    client-fingerprint: "ios"
     network: ws
     ws-opts:
       path: "/assignment"
@@ -1371,191 +1332,13 @@ proxies:
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "5bd36fef-18ac-4d69-8080-25df6c9b369e"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "www.hollywoodreporter.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "SqNAL7L50tQTHhkvN4dT3O-DqdI1qan5iwg6ai4U_hY"
-      short-id: "a3a5df265540"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "a1fbffe9-8e5a-5a0e-9333-045d32eccd59"
-    udp: true
-    tls: true
-    skip-cert-verify: false
-    servername: "microsoft.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "JTCi6U1Kv8LSYewi6P1l6lHzyJyCi9cs4blbNX4JQTA"
-      short-id: "c293eeb6"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "c1e32c6c-9a14-4edf-95c7-b1236a55aa07"
-    udp: true
-    tls: true
-    skip-cert-verify: false
-    servername: "www.samsung.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "lCkGLh6mypATTCMgrwjjqOxWBISCIB9fmdt_5Fff3Ug"
-      short-id: "e7eac240"
-    network: grpc
-    grpc-opts:
-      grpc-service-name: ""
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2"
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "d1UH4TrhvCmjc-s4nmChew1qGqX3MNMqel"
-    sni: "www.ws-converter.click"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "e5cc16a6-ea42-46b2-82ae-ad2157e1641b"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "hhlfy.twiladaphne.ndjp.net"
-    network: ws
-    ws-opts:
-      path: "/fp=random"
-      headers:
-        Host: "hhlfy.twiladaphne.ndjp.net"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "18d0c6fa-8715-47c6-a4ab-3ea5a7e10363"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "compasSIonAtE-drEam2FqZUJ02O9.SAmSuNGOvEns.Ir"
-    client-fingerprint: "chrome"
-    alpn: ["h2", "http/1.1"]
-    network: grpc
-    grpc-opts:
-      grpc-service-name: "mizanonline.com.ilna.news.sharghdaily.com.sharghdaily.com.farsnews.ir.rajanews.com.presstv.ir"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "632c9f9e-1c86-4d1b-927e-8b22f5273642"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "aws.amazon.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "pevfh90s1njkhxXqlEliTJdXMU5dw6TnlsfVUR8gxmY"
-      short-id: "796a6f1c8a495d"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "127.0.0.1"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "baf498db-7039-4ba5-90df-d5f5e5c75331"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "www.hollywoodreporter.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE"
-      short-id: "8492240eab92"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "kkzh2prsyr2ik47as615"
-    sni: "static.rutube.ru"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "ed285fbd-528e-4610-9a8d-2ad95767c00b"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "www.lovelive-anime.jp"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "B7eELUOn0QM6fKSrr5v_AE4JPHQIxvb9-xX3WLqnLAk"
-      short-id: "11d27eb4"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "b98d4c6e-6770-4a31-8256-a4750cdea0e7"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "www.amazon.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo"
-      short-id: "1a"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
     uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
     udp: true
     flow: "xtls-rprx-vision"
     tls: true
     skip-cert-verify: false
     servername: "it.s3-cloud.xyz"
-    client-fingerprint: "edge"
+    client-fingerprint: "chrome"
     reality-opts:
       public-key: "zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY"
       short-id: "7a3f9e2b1c8d4f6a"
@@ -1563,124 +1346,30 @@ proxies:
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "76713d07-5a6b-49c2-abd8-bc450a2fa7fc"
+    uuid: "e1df69ad-2351-4725-adc0-601bd7d8b8e7"
     udp: true
     flow: "xtls-rprx-vision"
     tls: true
     skip-cert-verify: false
-    servername: "www.google.com"
+    servername: "www.microsoft.com"
     client-fingerprint: "chrome"
     reality-opts:
-      public-key: "9Ow4bZxApNkRwAjQxyr_aZsBcJGc__jemUA7__BbZTE"
-      short-id: "ab1c1a11"
+      public-key: "Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE"
+      short-id: "f7c5599376a0"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "192.124.176.37"
-    network: ws
-    ws-opts:
-      path: "/proxy"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "e73d4e2a-ac73-4948-960a-2c2dd57b7ea8"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "yellow-disk-0edf.diyenec996.workers.dev"
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/ws"
-      headers:
-        Host: "yellow-disk-0edf.diyenec996.workers.dev"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "CNT-Cafe"
+    uuid: "9c63bf8b-1c25-4b7e-9393-71aa99cad29d"
     udp: true
     flow: "xtls-rprx-vision"
     tls: true
     skip-cert-verify: false
-    servername: "www.hcaptcha.com"
+    servername: "ads.5ka.ru"
     client-fingerprint: "chrome"
     reality-opts:
-      public-key: "IgE3YVskwHOBHPUSDq-3yhO99G46ayFewg7WG2XHK28"
-      short-id: "db7ea79419"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "2e71d8fc-d2e8-44fc-89bd-c8a449a193aa"
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "odd-bread-435d.ahmadrezasteamacc.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "b8b01773-36b1-4b49-9bd0-6249f52345b4"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "MiSty-tooth-78cA.FoboGAH414-e7B.WoRKERs.DEv"
-    alpn: ["http/1.1"]
-    network: ws
-    ws-opts:
-      path: "/eyJqdW5rIjoiTkNUaFg0ZnJNUjhhcyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0="
-      headers:
-        Host: "misty-tooth-78ca.fobogah414-e7b.workers.dev"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "e82387dd-afe2-4f77-8655-df4693739bb4"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "microsoft.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "gWhNEtQThatVeeZxgbB71CKVK_2eKGmjE3to2ew2VRk"
-      short-id: "b8f9dcce"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
+      public-key: "1A4AgKQiz38mT1r1H0su7aAXBB7KnKOFzsQ3AdACVDs"
+      short-id: "612d8fa72c"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
@@ -1699,16 +1388,622 @@ proxies:
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "3e0c34a4-1c38-4d93-88c6-5155e81f8b52"
+    uuid: "5e8ee155-0962-4307-98f2-b65f6bbbd5bb"
     udp: true
     flow: "xtls-rprx-vision"
     tls: true
     skip-cert-verify: false
-    servername: "saorg.ir"
+    servername: "cloudflare.com"
     client-fingerprint: "chrome"
     reality-opts:
-      public-key: "D-7qX4fqUFKDS2dQWFgGT4fXJnABnpM6IkU8SDHLMC0"
-      short-id: "6ba85179e30d4fc2"
+      public-key: "c9eCHF41FReFLIdarpg8M5edw4_E133EJBzrvYS02Ck"
+      short-id: "cd9a5f0edff48da4"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "a6f1755f-0140-4bea-8727-0db1bed7c4df"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "juzi.qea.ccwu.cc"
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "juzi.qea.ccwu.cc"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "e73df646-1f62-41bf-8c50-653497d603d0"
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/vless/"
+      headers:
+        Host: "SC-TheNetherlands2.09vpn.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "d49eb175-facd-4c33-b1be-32c746701184"
+    udp: true
+    tls: true
+    skip-cert-verify: false
+    servername: "greblox.forum"
+    client-fingerprint: "firefox"
+    reality-opts:
+      public-key: "Tb21e9Z3rtr5NoprXQQtcqLLRZOgIVyIbuZmqPJkGXM"
+      short-id: "9e327f04ce93c187"
+    network: grpc
+    grpc-opts:
+      grpc-service-name: "grpc"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh"
+    sni: "www.weavenet.click"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "703fe724-d2b9-40f9-934f-3089403a109d"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "ya.ru"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "edl7x700EJzY6NIN1pZXo-QiyRAScQCW5UO-0ZQXpA0"
+      short-id: "aabbccdd"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "af77d53f-a0e4-456e-b977-696bf081dcc8"
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "g1.nybaz.space"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "228ecfd3-9bf0-42fd-a50e-581f84022513"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "www.ozone.nl"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "09dnS8j39kek1dupFOV_NgLaQPwP46W8dAqt8IaTO1Y"
+      short-id: "3862f5"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "2001daf3-5c56-4bef-8ea6-8dd0493c5a4c"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "www.deepl.com"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "c871b272-4bb8-4d52-a1a9-a94a19220aa0"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "us2.wxgqlfx.xyz"
+    client-fingerprint: "chrome"
+    alpn: ["http/1.1"]
+    network: ws
+    ws-opts:
+      path: "/TG@wxgqlfx"
+      headers:
+        Host: "us2.wxgqlfx.xyz"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "94daa8ad-75ed-4dbf-a6de-d05036d98df5"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "vangoghhh.info"
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tixvuws"
+      headers:
+        Host: "vangoghhh.info"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "8546145579"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "www.microsoft.com"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "978-Yxgtd3AWTVfiXEQqCstdwrT1qgsgleGPIRGQDl8"
+      short-id: "bdac121c7debdaba"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "2001daf3-5c56-4bef-8ea6-8dd0493c5a4c"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "rutube.ru"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "192.124.176.37"
+    network: ws
+    ws-opts:
+      path: "/proxy"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "c3d4e5f6-7890-1234-5678-90abcdef1234"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "vpn3.rnmcnm.com"
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/ray"
+      headers:
+        Host: "vpn3.rnmcnm.com"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "ea285277-0356-40c8-8f6d-8eb430b53f7f"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "www.techradar.com"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "WOPZy8oOnvHN21pLYobZAGa7sVp7op3q575B5BaFxkU"
+      short-id: "957796685f06"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "394f6981-a782-4779-9a85-e6cf22935d93"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "uk1.fromblancwithlove.com"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "jp.s3-cloud.org"
+    client-fingerprint: "edge"
+    reality-opts:
+      public-key: "QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs"
+      short-id: "7a3f9e2b1c8d4f6a"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "d7dbeb1e-268c-465c-8f59-489f14703efd"
+    udp: true
+    tls: true
+    skip-cert-verify: false
+    servername: "yahoo.com"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk"
+      short-id: "910aab"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "8338171d-2ea7-4015-bdea-492f3d5d4e60"
+    udp: true
+    tls: true
+    skip-cert-verify: false
+    servername: "yahoo.com"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0"
+      short-id: "94f9"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "7131f38f-9a4a-4e38-ae1d-aa9e132265ea"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "proxy.wastech.org"
+    client-fingerprint: "chrome"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "c3d4e5f6-7890-1234-5678-90abcdef1234"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "vpn3.rnmcnm.com"
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/ray"
+      headers:
+        Host: "vpn3.rnmcnm.com"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "c871b272-4bb8-4d52-a1a9-a94a19220aa0"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "us2.wxgqlfx.xyz"
+    client-fingerprint: "chrome"
+    alpn: ["http/1.1"]
+    network: ws
+    ws-opts:
+      path: "/TG@wxgqlfx"
+      headers:
+        Host: "us2.wxgqlfx.xyz"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "78.135.93.239"
+    network: ws
+    ws-opts:
+      path: "/proxy"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "abcd6b4c-2d85-4de5-be7f-62791b0f5085"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "cloudflare.com"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "8PkeN5hkQBkoBt0I2JdcDC865gUXui86897Th8DaDlY"
+      short-id: "88acba"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "9232a847-8f7d-4548-a23a-a8b3550e0f15"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "grabacademyportal.grab.com.cyylr.eu.cc"
+    network: ws
+    ws-opts:
+      path: "/id-tksi"
+      headers:
+        Host: "grabacademyportal.grab.com.cyylr.eu.cc"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "bf3e8944-8d26-47de-8748-b9aa74cce974"
+    udp: true
+    tls: true
+    skip-cert-verify: false
+    servername: "yahoo.com"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk"
+      short-id: "df8611c07d"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "56c926e4-e34b-443f-b5ca-cc6f0afab28a"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "fastsync.xyz"
+    client-fingerprint: "qq"
+    reality-opts:
+      public-key: "eHgRhHYifD2njbtjzgMsNPGnvbpAK8SSXC5-wFuQnQ4"
+      short-id: "65b5280b52e0532c"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51"
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/http"
+      headers:
+        Host: "de.vpnbase.net"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "e277ac9b-3225-4381-a9fb-3585419f7142"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "37cdnws.iamali.info"
+    client-fingerprint: "firefox"
+    alpn: ["http/1.1"]
+    network: ws
+    ws-opts:
+      path: "/37cdnws"
+      headers:
+        Host: "37cdnws.iamali.info"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "a6f1755f-0140-4bea-8727-0db1bed7c4df"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "juzi.qea.ccwu.cc"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "juzi.qea.ccwu.cc"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "69a2af58-d74a-44ca-864a-e09b493f4274"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "www.google.com"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "Nlsu3xrYPB9ePk3pkcCPJbsuhsLrmAOeXMKaNAZyOww"
+      short-id: "97783a46"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "89969e61-89e9-4846-b7dc-ef7ce978738b"
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/ae-bo"
+      headers:
+        Host: "click.snapchat.com.cyylr.eu.cc"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "fc965ad9-bdd7-4815-ad71-b39ec5972dc1"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "octopusss4.com"
+    network: ws
+    ws-opts:
+      path: "/tsghdws"
+      headers:
+        Host: "octopusss4.com"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "a5952e75-79f3-495d-b95d-5faa2452b5b8"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "www.hollywoodreporter.com"
+    client-fingerprint: "qq"
+    reality-opts:
+      public-key: "WOPZy8oOnvHN21pLYobZAGa7sVp7op3q575B5BaFxkU"
+      short-id: "ba0f40f79197"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "1cb91b20-49cc-59ff-8393-91808a4deede"
+    udp: true
+    tls: true
+    skip-cert-verify: false
+    servername: "www.ozon.ru"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM"
+      short-id: "ffffffffff"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "Config0plus"
+    sni: "unnes.ac.id.cyylr.eu.cc"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/sg-melbi"
+      headers:
+        Host: "unnes.ac.id.cyylr.eu.cc"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "fb9e4c3a-936f-44c7-ac89-d5d422690fcf"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "www.microsoft.com"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "IS6TNMONlIVvcUBvo2RXQvx2Jopcv4wzPyZhxPhWqT8"
+      short-id: "e6"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "c871b272-4bb8-4d52-a1a9-a94a19220aa0"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "us2.wxgqlfx.xyz"
+    client-fingerprint: "chrome"
+    alpn: ["http/1.1"]
+    network: ws
+    ws-opts:
+      path: "/TG@wxgqlfx"
+      headers:
+        Host: "us2.wxgqlfx.xyz"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "9bab5218-ce9f-4991-9887-8b3605a27d5e"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "graph.instagram.com.cyylr.eu.cc"
+    network: ws
+    ws-opts:
+      path: "/sg-amz"
+      headers:
+        Host: "graph.instagram.com.cyylr.eu.cc"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "5bd36fef-18ac-4d69-8080-25df6c9b369e"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "www.hollywoodreporter.com"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "SqNAL7L50tQTHhkvN4dT3O-DqdI1qan5iwg6ai4U_hY"
+      short-id: "a3a5df265540"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "f9830277-753f-481b-bb35-15e15a92acb0"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "www.tradingview.com"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE"
+      short-id: "83e0acf97a90"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "a6f1755f-0140-4bea-8727-0db1bed7c4df"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "juzi.qea.ccwu.cc"
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/fp=chrome"
+      headers:
+        Host: "juzi.qea.ccwu.cc"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "it.s3-cloud.xyz"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY"
+      short-id: "7a3f9e2b1c8d4f6a"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
@@ -1723,6 +2018,47 @@ proxies:
     reality-opts:
       public-key: "zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY"
       short-id: "7a3f9e2b1c8d4f6a"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "b1e4bfe2-2b12-11f1-92cb-12ba70109d32"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "vk.ru"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "OMQ1V_lJL1tgssEepG7BkCjBdt6sleZivAHiBPALlGc"
+      short-id: "ce59797defddc5e7"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "b85b1e90-b5ed-0002-b433-bf9d2eca0e42"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "ru9.aimodelhub.top"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA"
+      short-id: "a73cf719b624"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "18805ff3-b420-45de-af18-93be14024ae8"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "www.amazon.com"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
@@ -1755,64 +2091,117 @@ proxies:
     type: vless
     server: "127.0.0.1"
     port: 40443
+    uuid: "b6b2c827-4ac1-4e2c-af28-dfa7edbfeb81"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "www.sony.com"
+    client-fingerprint: "firefox"
+    reality-opts:
+      public-key: "5KJ1tLErCUEfqxc3IsnY_49p_gWe0mPB8eXJ3MLucgU"
+      short-id: "0675732ab101"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "77777777-8a3e-6666-b6d1-a9c5f0e8b3a2"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "fgnix832fx.fx6hsv0.ccwu.cc"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "fgnix832fx.fx6hsv0.ccwu.cc"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "e4fc4761-154f-490e-bbaa-b4fa193f1073"
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "aded66f1-de12-4c3c-af9e-a21d6e7d9c96"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "www.foxsports.com"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg"
+      short-id: "2a80364e93d9"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "b6ce8a51-19b9-4979-91ba-b4298c26d5fc"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "sw1tzerl4nd.gxcore.net"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "127zCnB9vtae6HnpowaSW8eFqflCAaBV0iM1oKHBWwY"
+      short-id: "a1ab5a56bc42"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "40cc9b52-25b8-4cd5-8b45-715ae26e6baf"
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/vless/"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
     uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
     udp: true
     flow: "xtls-rprx-vision"
     tls: true
     skip-cert-verify: false
-    servername: "it.s3-cloud.xyz"
+    servername: "jp.s3-cloud.org"
     client-fingerprint: "edge"
     reality-opts:
-      public-key: "zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY"
+      public-key: "QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs"
       short-id: "7a3f9e2b1c8d4f6a"
   - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.creationlong.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.creationlong.org"
-  - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "1fdb731e-1365-4dce-b3e3-b793589d5177"
+    uuid: "6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5"
     udp: true
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "7f3faff8-41db-403d-8329-6b9072aaabe2"
-    udp: true
+    flow: "xtls-rprx-vision"
     tls: true
-    skip-cert-verify: true
-    servername: "edgetunnell-1dc.pages.dev"
+    skip-cert-verify: false
+    servername: "www.tradingview.com"
     client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "edgetunnell-1dc.pages.dev"
+    reality-opts:
+      public-key: "0xOy6LYcvRIbgXBDMSV0ZiuJPi_hf2e7FV4icmsQYQY"
+      short-id: "8b5017a8"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "e5cc16a6-ea42-46b2-82ae-ad2157e1641b"
+    uuid: "e886fa93-8260-4f8e-ba3a-4879a4d69946"
     udp: true
     tls: true
-    skip-cert-verify: true
-    servername: "hhlfy.twiladaphne.ndjp.net"
-    network: ws
-    ws-opts:
-      path: "/fp=chrome"
-      headers:
-        Host: "hhlfy.twiladaphne.ndjp.net"
+    skip-cert-verify: false
+    servername: "www.google.com"
+    client-fingerprint: "random"
+    reality-opts:
+      public-key: "ogPhlqdcw50ySFPbrYeLT0_L2vFHDfwAuu1pIKboODY"
+      short-id: "93"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -1825,45 +2214,68 @@ proxies:
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4"
-    udp: true
-    tls: true
-    skip-cert-verify: false
-    servername: "loadtest.dev.urent.ru"
-    client-fingerprint: "qq"
-    reality-opts:
-      public-key: "_AXs-QnufIq918tbb2pwM3MDbe7kQ6i0cIHDMLwPmGs"
-      short-id: "3210e0eee6605048"
-    network: grpc
-    grpc-opts:
-      grpc-service-name: "grpc"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "48ff2b70-e180-582f-8866-d9a2edeed5f5"
+    uuid: "4086c00a-67a4-4d96-9c5f-2f177f26cb51"
     udp: true
     flow: "xtls-rprx-vision"
     tls: true
     skip-cert-verify: false
-    servername: "fuck.rkn"
+    servername: "dlcdnets.asus.com"
     client-fingerprint: "chrome"
     reality-opts:
-      public-key: "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s"
-      short-id: "01"
+      public-key: "IqsN_cPeCP6oEXtYQMMWBiUim-r9lxq7YGj_mE3992g"
+      short-id: "e6d59aff03e5b0"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "a6f1755f-0140-4bea-8727-0db1bed7c4df"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "juzi.qea.ccwu.cc"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "juzi.qea.ccwu.cc"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "humanity"
-    sni: "www.multiplydose.com"
+    password: "lTLVIqIvFqp+es9giS.0o77ztLrCQLaxVh"
+    sni: "172.105.9.126"
     skip-cert-verify: true
     udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg"
+    sni: "www.sandbox-cloud.click"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "197f5e5c-fc15-4db6-8444-50248c2c394d"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "somersby.pt.cyylr.eu.cc"
     network: ws
     ws-opts:
-      path: "/assignment"
+      path: "/sg-amz"
       headers:
-        Host: "www.multiplydose.com"
+        Host: "somersby.pt.cyylr.eu.cc"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "4f4d1167-ef14-4304-9bce-0740472503ef"
+    sni: "ch.01.naiun.bilibili.com"
+    skip-cert-verify: true
+    udp: true
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
@@ -1883,288 +2295,65 @@ proxies:
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "fc965ad9-bdd7-4815-ad71-b39ec5972dc1"
+    uuid: "25ce64d7-b8f3-43ec-b969-ced1044d9fe6"
     udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "octopusss4.com"
-    network: ws
-    ws-opts:
-      path: "/tsghdws"
-      headers:
-        Host: "octopusss4.com"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "e5cc16a6-ea42-46b2-82ae-ad2157e1641b"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "hhlfy.twiladaphne.ndjp.net"
     network: ws
     ws-opts:
       path: "/"
       headers:
-        Host: "hhlfy.twiladaphne.ndjp.net"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.creationlong.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.creationlong.org"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
+        Host: "www.google.com"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "60d06568-b005-48bf-ba28-bac13b3a12ce"
+    uuid: "69a2af58-d74a-44ca-864a-e09b493f4274"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "www.google.com"
+    client-fingerprint: "firefox"
+    reality-opts:
+      public-key: "Nlsu3xrYPB9ePk3pkcCPJbsuhsLrmAOeXMKaNAZyOww"
+      short-id: "97783a46"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "e277ac9b-3225-4381-a9fb-3585419f7142"
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: "us2.wxgqlfx.xyz"
-    client-fingerprint: "chrome"
+    servername: "37cdnws.iamali.info"
+    client-fingerprint: "firefox"
     alpn: ["http/1.1"]
     network: ws
     ws-opts:
-      path: "/TG@wxgqlfx"
+      path: "/37cdnws"
       headers:
-        Host: "us2.wxgqlfx.xyz"
+        Host: "37cdnws.iamali.info"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "06b65903-406d-4a41-8463-6fd5c0ee7798"
+    uuid: "6946cf76-2c1e-4fbc-a28a-e2beeb7c29cb"
     udp: true
+    flow: "xtls-rprx-vision"
     tls: true
-    skip-cert-verify: true
-    servername: "sn1.skylee5.cloudns.ch"
-    network: ws
-    ws-opts:
-      path: "/proxyip=proxyip.cmliussss.net"
-      headers:
-        Host: "sn1.skylee5.cloudns.ch"
+    skip-cert-verify: false
+    servername: "ya.ru"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw"
+      short-id: "6ba85179e30d4fc2"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
     port: 40443
     password: "4f4d1167-ef14-4304-9bce-0740472503ef"
-    sni: "az.01.naiun.bilibili.com"
+    sni: "fr.01.naiun.bilibili.com"
     skip-cert-verify: true
     udp: true
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "fc965ad9-bdd7-4815-ad71-b39ec5972dc1"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "octopusss4.com"
-    network: ws
-    ws-opts:
-      path: "/tsghdws"
-      headers:
-        Host: "octopusss4.com"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "86c50e3a-5b87-49dd-bd20-03c7f2735e40"
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/fp=randomized"
-      headers:
-        Host: "cnmfangbinxing.cnmfangbinxing-k.workers.dev"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "48ff2b70-e180-582f-8866-d9a2edeed5f5"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "fuck.rkn"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s"
-      short-id: "01"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "c1836360-0954-42f9-92d1-5457db6fce25"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "bitter-base-6f9e.amirmahdizamani50.workers.dev"
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "bitter-base-6f9e.amirmahdizamani50.workers.dev"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "cc752a3e-1537-4e86-bb50-1b897bf7b33c"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "cyylr.eu.cc"
-    client-fingerprint: "chrome"
-    alpn: ["http/1.1"]
-    network: ws
-    ws-opts:
-      path: "/sg-melbi"
-      headers:
-        Host: "cyylr.eu.cc"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "0dc22208-cea4-4423-b3c3-a36957e23233"
-    udp: true
-    tls: true
-    skip-cert-verify: false
-    servername: "yahoo.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "Zd5BqaW-kyJqZANUH2cIARr466QZw09pNngYjsEK1w8"
-      short-id: "30fa"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "b1f8283d-36f5-4ff9-8ad8-e6d733a18fa0"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "darkness427edge-93h.pages.dev"
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "darkness427edge-93h.pages.dev"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "jp.s3-cloud.org"
-    client-fingerprint: "edge"
-    reality-opts:
-      public-key: "QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs"
-      short-id: "7a3f9e2b1c8d4f6a"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "06b65903-406d-4a41-8463-6fd5c0ee7798"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "sni.skylee4.cloudns.ch"
-    network: ws
-    ws-opts:
-      path: "/fp=chrome"
-      headers:
-        Host: "sni.skylee4.cloudns.ch"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "43.164.0.59"
-    network: ws
-    ws-opts:
-      path: "/proxy"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "d0298536-d670-4045-bbb1-ddd5ea68683e"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "azadnet-1ml.pages.dev"
-    client-fingerprint: "randomized"
-    network: ws
-    ws-opts:
-      path: "/azadnet-1ml.pages.dev/?ed=2560"
-      headers:
-        Host: "azadnet-1ml.pages.dev"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "77777777-8a3e-6666-b6d1-a9c5f0e8b3a2"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "fgnix832fx.fx6hsv0.ccwu.cc"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "fgnix832fx.fx6hsv0.ccwu.cc"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "www.miro.com"
-    client-fingerprint: "random"
-    reality-opts:
-      public-key: "YoVxvwAP6l4vRG9HZmePBcHxy9oaRyWKmp1fIXVzPAY"
-      short-id: "16"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "53821f3c-5b03-456a-89f3-f8379f130752"
-    udp: true
-    tls: true
-    skip-cert-verify: false
-    servername: "www.samsung.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw"
-      short-id: "a13a7cc5"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
@@ -2178,180 +2367,52 @@ proxies:
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
+    uuid: "b2b62085-f202-4c49-9f19-a44676a3d76d"
     udp: true
-    flow: "xtls-rprx-vision"
     tls: true
-    skip-cert-verify: false
-    servername: "it.s3-cloud.xyz"
-    client-fingerprint: "edge"
-    reality-opts:
-      public-key: "zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY"
-      short-id: "7a3f9e2b1c8d4f6a"
+    skip-cert-verify: true
+    servername: "vpn2.rnmcnm.com"
+    network: ws
+    ws-opts:
+      path: "/ray"
+      headers:
+        Host: "vpn2.rnmcnm.com"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "e64100fd-773d-4cc6-adbe-a4c94876d07a"
+    uuid: "7270612b-49f6-4b04-999c-34d8263da767"
     udp: true
     tls: true
-    skip-cert-verify: false
-    servername: "d.primarymaster.online"
+    skip-cert-verify: true
+    servername: "picassooo.info"
     client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "ID6lMOmt7BiuPHjZkoLSWNR9ONmB6b4L9skIIFjtXxU"
-    network: grpc
-    grpc-opts:
-      grpc-service-name: ""
+    network: ws
+    ws-opts:
+      path: "/aymdlws"
+      headers:
+        Host: "picassooo.info"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "abb8ca6f-a049-4c6d-9780-70624c476a0d"
+    uuid: "6e76f92f-5005-42d8-8c66-ea7ffde3168a"
     udp: true
     tls: true
     skip-cert-verify: false
-    servername: "www.sony.com"
+    servername: "yahoo.com"
     client-fingerprint: "chrome"
     reality-opts:
-      public-key: "g2iGrP41UeFpnaFa_NtNSV89i4QoYWKXaJwgvgg_31k"
-      short-id: "e6bb2b5c0ab6fd47"
-    network: grpc
-    grpc-opts:
-      grpc-service-name: ""
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "ae5ba4be-7262-4199-bd62-210ed8999b9f"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "max.ru"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ"
+      public-key: "rSL9RX3anDN8Un4ImlYVa94n9wDdUmHdubxoMKnaXgE"
+      short-id: "5a55"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
+    password: "qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq"
+    sni: "127.0.0.1"
     skip-cert-verify: true
     udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "6f9de7a7-e303-4056-b9ff-96a610ebdee9"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "speedtest.net"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "fancii.global.ssl.fastly.neT."
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "it.s3-cloud.xyz"
-    client-fingerprint: "edge"
-    reality-opts:
-      public-key: "zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY"
-      short-id: "7a3f9e2b1c8d4f6a"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "06b65903-406d-4a41-8463-6fd5c0ee7798"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "sni.skylee4.cloudns.ch"
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/proxyip=ProxyIP.CMLiussss.net"
-      headers:
-        Host: "sni.skylee4.cloudns.ch"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "e73d4e2a-ac73-4948-960a-2c2dd57b7ea8"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "yellow-disk-0edf.diyenec996.workers.dev"
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/ws"
-      headers:
-        Host: "yellow-disk-0edf.diyenec996.workers.dev"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "48ff2b70-e180-582f-8866-d9a2edeed5f5"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "fuck.rkn"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s"
-      short-id: "01"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "049e56d8-0ba0-49e3-b764-ee04122b9f00"
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/vless/"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "327bf8a4-52ec-4fc1-afab-fc37ecec8be9"
-    udp: true
-    tls: true
-    skip-cert-verify: false
-    servername: "web.max.ru"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "0paB9-U-QzEBoSQiOP161BPvc2PhWrfQ_5nbfk2AezM"
-      short-id: "a9766c"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
@@ -2370,146 +2431,29 @@ proxies:
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "acd3f06c-0543-498b-b5d3-f7a25fbde50b"
+    uuid: "191ee2c8-e3e3-09a1-a4a5-c9e8323c6f3d"
     udp: true
     flow: "xtls-rprx-vision"
     tls: true
     skip-cert-verify: false
-    servername: "www.microsoft.com"
-    client-fingerprint: "chrome"
+    servername: "stackoverflow.com"
+    client-fingerprint: "firefox"
     reality-opts:
-      public-key: "Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE"
-      short-id: "bc06a5b31009"
+      public-key: "LaGTRJ1CJnnYV7FnyqQnU28I0xFTPFKI8xmUFwig5ic"
+      short-id: "c410508e9721512b"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "a1fbffe9-8e5a-5a0e-9333-045d32eccd59"
+    uuid: "1b9e301d-cecd-4eb1-8b36-eef811c2696d"
     udp: true
     tls: true
     skip-cert-verify: false
-    servername: "microsoft.com"
+    servername: "max.ru"
     client-fingerprint: "chrome"
     reality-opts:
-      public-key: "rvgL4jkchAJf4frvRTha9s1HHmVbhKIQvmXDWdnNJ3M"
-      short-id: "6aa3a89e"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "jp.s3-cloud.org"
-    client-fingerprint: "edge"
-    reality-opts:
-      public-key: "QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs"
-      short-id: "7a3f9e2b1c8d4f6a"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "f6431ff1-dec0-4a6c-be4a-ce917913b589"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "www.cloudflare.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "4f4d1167-ef14-4304-9bce-0740472503ef"
-    sni: "gh.01.naiun.bilibili.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "ce69190e-935a-4394-9e5e-2ab2872ba242"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "up2-df6.pages.dev"
-    network: ws
-    ws-opts:
-      path: "/uTZSXPBI2IfoxF86"
-      headers:
-        Host: "up2-df6.pages.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "deb96819-bdaa-4f52-a536-d4751290ce47"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "yahoo.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "Mr1b8zNNR1uPtf8dgfze_kBJbaVimS0NhJL0ff_2qm4"
-      short-id: "0f8d9583dd332274"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "a1fbffe9-8e5a-5a0e-9333-045d32eccd59"
-    udp: true
-    tls: true
-    skip-cert-verify: false
-    servername: "microsoft.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "9u-7S-wIZ2vptWtSX32bZ3DWK2KiEBjxJs0Fsx3nJn4"
-      short-id: "b6dbe6b9"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "106d20f6-d70a-40e2-b69b-8e82baf8d117"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "www.microsoft.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg"
-      short-id: "60500a63ad12"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "fc965ad9-bdd7-4815-ad71-b39ec5972dc1"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "octopusss4.com"
-    network: ws
-    ws-opts:
-      path: "/tsghdws"
-      headers:
-        Host: "octopusss4.com"
+      public-key: "zxzgWvYs4pMN3fEduth1soI1yMZDkynb1bBM4tj85EE"
+      short-id: "5e841fab"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
@@ -2528,42 +2472,79 @@ proxies:
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "48ff2b70-e180-582f-8866-d9a2edeed5f5"
+    uuid: "02b5c72e-b345-4d34-9df6-c7f6c578aa43"
     udp: true
     flow: "xtls-rprx-vision"
     tls: true
     skip-cert-verify: false
-    servername: "fuck.rkn"
+    servername: "google.com"
     client-fingerprint: "chrome"
     reality-opts:
-      public-key: "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s"
-      short-id: "01"
+      public-key: "bfBj_6i0gYWCbWnmOxZcZW0Fa8bNIkU120xKmzl-NAk"
+      short-id: "c6cc"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "e977d854-33f3-4345-abee-bf3fa9a6d880"
+    uuid: "3686e17d-3b01-48e3-bbc2-3ec7d141b815"
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: "nAzAnmAnO.X-uPlOaD.oRg"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "nAzAnmAnO.X-uPlOaD.oRg"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "17451fec-af94-4715-8c2f-7f6839130d0a"
     udp: true
     tls: true
     skip-cert-verify: false
-    servername: "yahoo.com"
+    servername: "tradingview.com"
     client-fingerprint: "chrome"
     reality-opts:
-      public-key: "lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0"
-      short-id: "3c"
+      public-key: "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0"
+      short-id: "53197c66aef53c44"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "it.s3-cloud.xyz"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY"
+      short-id: "7a3f9e2b1c8d4f6a"
+  - name: "@rossinna77Github"
+    type: vless
+    server: "127.0.0.1"
+    port: 40443
+    uuid: "0ddc1b7c-ce23-4a30-8ede-8a9e19f02fb7"
+    udp: true
+    flow: "xtls-rprx-vision"
+    tls: true
+    skip-cert-verify: false
+    servername: "vsgch.mostserv.xyz"
+    client-fingerprint: "chrome"
+    reality-opts:
+      public-key: "3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI"
+      short-id: "226509f017e4c36d"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "humanity"
-    sni: "www.creationlong.org"
+    password: "tsuchiya"
+    sni: "127.0.0.1"
     skip-cert-verify: true
     udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.creationlong.org"
   - name: "@rossinna77Github"
     type: vless
     server: "127.0.0.1"
@@ -2573,8 +2554,8 @@ proxies:
     flow: "xtls-rprx-vision"
     tls: true
     skip-cert-verify: false
-    servername: "www.tele2.se"
-    client-fingerprint: "firefox"
+    servername: "www.scaleway.com"
+    client-fingerprint: "chrome"
     reality-opts:
       public-key: "FurqA-2jJHS4vNj92Ya5i2ZTxf0sWSjUTaz5Y_KMBgk"
       short-id: "57cc65bfd5ef7465"
@@ -2582,796 +2563,16 @@ proxies:
     type: vless
     server: "127.0.0.1"
     port: 40443
-    uuid: "bd008dcd-acd5-489d-9035-a2578ff50f3d"
+    uuid: "779d227c-f7be-4b9d-a4a9-1197c734b4e7"
     udp: true
     flow: "xtls-rprx-vision"
     tls: true
     skip-cert-verify: false
-    servername: "play.google.com"
-    client-fingerprint: "chrome"
+    servername: "www.tesla.com"
+    client-fingerprint: "firefox"
     reality-opts:
-      public-key: "A5NRJmo5thCAgdv0r2GTrlwJoM60EURUqUd-p1b7Xn0"
-      short-id: "16bab5a5dcf620"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "2fb73fb6-1fa1-422e-ad82-a1a7b5f11078"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "god2.ultimagamest.com"
-    client-fingerprint: "randomized"
-    reality-opts:
-      public-key: "oqoNDQVcGzlSfB6v8mVlDZhLBUC9glFEOG853ZWiLh4"
-      short-id: "4326"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "8046e3a1-83a7-4155-86e4-374153fe66f3"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "www.icloud.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "56RJlIcxwncUs5m9QSfd3waHxm6vJFBKso5IkMSsyCA"
-      short-id: "5d"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "301d514e-4aa0-47b0-ba44-a0cb891cd52f"
-    udp: true
-    tls: true
-    skip-cert-verify: false
-    servername: "www.samsung.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4"
-      short-id: "a1b2c3d4"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "5d26d8a9-e2c0-480a-a3cf-32d4599f9f1a"
-    udp: true
-    tls: true
-    skip-cert-verify: false
-    servername: "www.sony.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "f7YoTZYvBdKxCtbdPhvLnxVhky5kti13PBUnJEIv31I"
-      short-id: "4ac57120072fef26"
-    network: grpc
-    grpc-opts:
-      grpc-service-name: ""
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "a1ee1f7f-deb9-48e4-9a97-6f565949817d"
-    udp: true
-    tls: true
-    skip-cert-verify: false
-    servername: "www.nvidia.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "iQnJ9plqBA9JIc8tnQGYaiuE3EnhOxl9jWGnVyJTWV0"
-      short-id: "5d9b8a"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "69a2af58-d74a-44ca-864a-e09b493f4274"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "api-maps.yandex.ru"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "vYAxsSvDFRv3AFxbenjrq3jRG_p8o_wER-I8x-7aSwU"
-      short-id: "062f"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "a12b0d31-f599-498e-b76e-8558a14b766b"
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/a12b0d31"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "43488128-319e-f480-64ea-0acdc712e2a8"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "www.vodafone.co.uk"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "6tORX9bm6UlGJ4dR8L2kzOd21oSrOyzpN7gC6SqGGyc"
-      short-id: "d27683580fc15f1e"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "b85b1e90-b5ed-0002-b433-bf9d2eca0e42"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "ru9.aimodelhub.top"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA"
-      short-id: "a73cf719b624"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "5c875449-ae7d-46f8-b919-5a29f271dfce"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "www.icloud.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "SKJQzoN8Lh8kqrDEyKzevbHHmfRhKe8XmzBxPYXF2A4"
-      short-id: "5a585c3e894bf074"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "60d06568-b005-48bf-ba28-bac13b3a12ce"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "us2.wxgqlfx.xyz"
-    client-fingerprint: "chrome"
-    alpn: ["http/1.1"]
-    network: ws
-    ws-opts:
-      path: "/TG@wxgqlfx"
-      headers:
-        Host: "us2.wxgqlfx.xyz"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "102b2850-5c6e-4ec8-a0db-e4165c3b572d"
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/ws/apps/emofid"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "ac98c9f5-ef19-4bdd-9c5c-00244d7e2541"
-    udp: true
-    tls: true
-    skip-cert-verify: false
-    servername: "yahoo.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "vl5WQd9UDA3DvLxPPS1yF9ivUipxkxoxhaBRHpnyLho"
-      short-id: "67fb"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "69a2af58-d74a-44ca-864a-e09b493f4274"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "www.vk.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "mgIiNnujl3pahea0WW3bCFqmdwofldk85e9XD3rQcQc"
-      short-id: "d8d900"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "it.s3-cloud.xyz"
-    client-fingerprint: "edge"
-    reality-opts:
-      public-key: "zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY"
-      short-id: "7a3f9e2b1c8d4f6a"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "60d06568-b005-48bf-ba28-bac13b3a12ce"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "us2.wxgqlfx.xyz"
-    client-fingerprint: "chrome"
-    alpn: ["http/1.1"]
-    network: ws
-    ws-opts:
-      path: "/TG@wxgqlfx"
-      headers:
-        Host: "us2.wxgqlfx.xyz"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "4aa54dd9-b671-408f-b046-8be599930202"
-    udp: true
-    tls: true
-    skip-cert-verify: false
-    servername: "www.bing.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "LL-UZjihSR6Rpa5K83lp71jbRGXN7aI8LHIEdszAFCE"
-      short-id: "78"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "8ea09611-4e24-49f9-8b2a-25974d8ebf8c"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "mag3.portal-guard.com"
-    client-fingerprint: "randomized"
-    reality-opts:
-      public-key: "QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0"
-      short-id: "4326"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "a1fbffe9-8e5a-5a0e-9333-045d32eccd59"
-    udp: true
-    tls: true
-    skip-cert-verify: false
-    servername: "microsoft.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "UOp1SM7b6AgDZAwQ6aTLGzCyKv-K6Xxkiedp2619jwc"
-      short-id: "857ec9a9"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "2fb73fb6-1fa1-422e-ad82-a1a7b5f11078"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "god2.ultimagamest.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "oqoNDQVcGzlSfB6v8mVlDZhLBUC9glFEOG853ZWiLh4"
-      short-id: "4326"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "kkzh2prsyr2ik47as615"
-    sni: "127.0.0.1"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "it.s3-cloud.xyz"
-    client-fingerprint: "edge"
-    reality-opts:
-      public-key: "zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY"
-      short-id: "7a3f9e2b1c8d4f6a"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "77777777-8a3e-6666-b6d1-a9c5f0e8b3a2"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "fgnix832fx.fx6hsv0.ccwu.cc"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "fgnix832fx.fx6hsv0.ccwu.cc"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "it.s3-cloud.xyz"
-    client-fingerprint: "edge"
-    reality-opts:
-      public-key: "zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY"
-      short-id: "7a3f9e2b1c8d4f6a"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "4f4d1167-ef14-4304-9bce-0740472503ef"
-    sni: "is.01.naiun.bilibili.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "b6b2c827-4ac1-4e2c-af28-dfa7edbfeb81"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "www.sony.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "5KJ1tLErCUEfqxc3IsnY_49p_gWe0mPB8eXJ3MLucgU"
-      short-id: "0675732ab101"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "301d514e-4aa0-47b0-ba44-a0cb891cd52f"
-    udp: true
-    tls: true
-    skip-cert-verify: false
-    servername: "www.samsung.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4"
-      short-id: "a1b2c3d4"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "3ea2d8f2-12c1-4189-8cc5-91d0ee9f5ca0"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "queuev4.vk.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA"
-      short-id: "a1b2c3d4e5f6"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "be015dd2-30b4-4fcf-a9ee-080c13ac13fb"
-    udp: true
-    tls: true
-    skip-cert-verify: false
-    servername: "yahoo.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10"
-      short-id: "6d638e"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "530eaa91-28a0-46ae-bc63-57384362ba6b"
-    udp: true
-    tls: true
-    skip-cert-verify: false
-    servername: "vk.ru"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "516wV7sLhUaSh5zqVbgyo-otX3ii13GgHJngRPhbflg"
-      short-id: "fe013b8818613e"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "1896c6c9-a941-4688-a865-29027bf7f8e6"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "www.microsoft.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk"
-      short-id: "6c825bc79850"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "it.s3-cloud.xyz"
-    client-fingerprint: "edge"
-    reality-opts:
-      public-key: "zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY"
-      short-id: "7a3f9e2b1c8d4f6a"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "950963d3-b8fb-45e7-aa84-16870b490154"
-    udp: true
-    tls: true
-    skip-cert-verify: false
-    servername: "yahoo.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "2lReHLDD5UCpT8FyBLPyrrIbi6MNKDBTArtCwI3NUQA"
-      short-id: "4b1b"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "48ff2b70-e180-582f-8866-d9a2edeed5f5"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "fuck.rkn"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s"
-      short-id: "01"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "376e5993-9afa-4bac-9660-edf39ea29996"
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "kanal-ma-falcunargo.43f6252145.workers.Dev"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "76713d07-5a6b-49c2-abd8-bc450a2fa7fc"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "download.spectrum.vu"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "sXC7sPCzHG_uYfvk3GSUdYQKfHAwirOVWMhO50Y9Pn8"
-      short-id: "d1e9faa1b2c3"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "60d06568-b005-48bf-ba28-bac13b3a12ce"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "us2.wxgqlfx.xyz"
-    client-fingerprint: "chrome"
-    alpn: ["http/1.1"]
-    network: ws
-    ws-opts:
-      path: "/TG@wxgqlfx"
-      headers:
-        Host: "us2.wxgqlfx.xyz"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "06b65903-406d-4a41-8463-6fd5c0ee7798"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "sn1.skylee5.cloudns.ch"
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "sn1.skylee5.cloudns.ch"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "it.s3-cloud.xyz"
-    client-fingerprint: "edge"
-    reality-opts:
-      public-key: "zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY"
-      short-id: "7a3f9e2b1c8d4f6a"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "it.s3-cloud.xyz"
-    client-fingerprint: "edge"
-    reality-opts:
-      public-key: "zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY"
-      short-id: "7a3f9e2b1c8d4f6a"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "25263c14-6cb5-499b-b462-dd498deecfe7"
-    udp: true
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "ce69190e-935a-4394-9e5e-2ab2872ba242"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "up2-df6.pages.dev"
-    network: ws
-    ws-opts:
-      path: "/uTZSXPBI2IfoxF86"
-      headers:
-        Host: "up2-df6.pages.dev"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "de86d13b-b419-4587-b643-c41ba6ea51ed"
-    udp: true
-    tls: true
-    skip-cert-verify: false
-    servername: "www.icloud.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "Rkx8a8DBAW6H2H2XXN2JFdBYe24VcJPpr51ehcvMV3w"
-      short-id: "90"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "b7725d23-840a-4f8e-993c-69b40424cfc0"
-    udp: true
-    tls: true
-    skip-cert-verify: false
-    servername: "yahoo.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU"
-      short-id: "f71c22"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "06b65903-406d-4a41-8463-6fd5c0ee7798"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "sn1.skylee5.cloudns.ch"
-    network: ws
-    ws-opts:
-      path: "/proxyip=proxyip.cmliussss.net"
-      headers:
-        Host: "sn1.skylee5.cloudns.ch"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "dbde7caa-2d09-4cf9-9a4f-9b17a8d11f5b"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "www.mozilla.org"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "4YLfHf90V012Oyd2wHbwAXaJNvNUGrKWmatTKc165U8"
-      short-id: "514c64ffed35"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "e5bd3d75-06b3-490e-9651-930b1dc29cdb"
-    udp: true
-    tls: true
-    skip-cert-verify: false
-    servername: "yahoo.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI"
-      short-id: "33f2"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "a6f1755f-0140-4bea-8727-0db1bed7c4df"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "juzi.qea.ccwu.cc"
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "juzi.qea.ccwu.cc"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "a6f1755f-0140-4bea-8727-0db1bed7c4df"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "juzi.qea.ccwu.cc"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "juzi.qea.ccwu.cc"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "jp.s3-cloud.org"
-    client-fingerprint: "edge"
-    reality-opts:
-      public-key: "QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs"
-      short-id: "7a3f9e2b1c8d4f6a"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "86c50e3a-5b87-49dd-bd20-03c7f2735e40"
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/fp=randomized"
-      headers:
-        Host: "cnmfangbinxing.cnmfangbinxing-k.workers.dev"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "455cfdc6-9abf-4e40-863f-5ff6cc63457c"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "www.microsoft.com"
-    client-fingerprint: "chrome"
-    reality-opts:
-      public-key: "FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg"
-      short-id: "18e4d2d21241"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "dc0d0eda-2293-4001-aa03-bd6c9431ed24"
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: "127.0.0.1"
-    network: ws
-    ws-opts:
-      path: "/vless/"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "Nova-Proxy"
-    sni: "spring-tooth-7fa3.ahmadrj.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "random"
-    network: ws
-    ws-opts:
-      path: "/?ed=2560"
-  - name: "@rossinna77Github"
-    type: vless
-    server: "127.0.0.1"
-    port: 40443
-    uuid: "dfc0cb9d-f005-41b0-848c-7703bd39d0de"
-    udp: true
-    flow: "xtls-rprx-vision"
-    tls: true
-    skip-cert-verify: false
-    servername: "it.s3-cloud.xyz"
-    client-fingerprint: "edge"
-    reality-opts:
-      public-key: "zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY"
-      short-id: "7a3f9e2b1c8d4f6a"
+      public-key: "4g1kpdmdbN6aNxeBYMj9WherunH9JSXsI_nKZTDiewE"
+      short-id: "fef8dcb8cafe30"
 
 proxy-groups:
   - name: "PROXY"
@@ -3390,64 +2591,6 @@ proxy-groups:
     tolerance: 50
     lazy: true
     proxies:
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
       - "@rossinna77Github"
       - "@rossinna77Github"
       - "@rossinna77Github"
@@ -3832,64 +2975,6 @@ proxy-groups:
       - "@rossinna77Github"
       - "@rossinna77Github"
       - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
 
   - name: "Fallback"
     type: fallback
@@ -3897,64 +2982,6 @@ proxy-groups:
     interval: 60
     lazy: true
     proxies:
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
-      - "@rossinna77Github"
       - "@rossinna77Github"
       - "@rossinna77Github"
       - "@rossinna77Github"
