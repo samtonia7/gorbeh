@@ -1,2 +1,0 @@
-vless://35aead44-22e1-d2ef-01a8-ab8c508222ec@127.0.0.1:40443?security=tls&sni=ez-5bde8e.ezaccess1a1d7a3.workers.dev&type=ws&host=ez-5bde8e.ezaccess1a1d7a3.workers.dev&path=%2Fsync&fp=chrome&pbk=enabled&allowInsecure=0#@rossinna77Github
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@127.0.0.1:40443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#@rossinna77Github
