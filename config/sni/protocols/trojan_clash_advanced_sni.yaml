@@ -64,14 +64,147 @@ proxies:
     server: "127.0.0.1"
     port: 40443
     password: "humanity"
-    sni: "www.ignitelimit.com"
+    sni: "www.creationlong.org"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
       path: "/assignment"
       headers:
-        Host: "www.ignitelimit.com"
+        Host: "www.creationlong.org"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.creationlong.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.creationlong.org"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.creationlong.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.creationlong.org"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "r137979f"
+    sni: "sheleqaz.emotionreza.workers.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/?ed=2560"
+      headers:
+        Host: "sheleqaz.emotionreza.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "Telegram_healer_config"
+    sni: "30f67sBQ8JjwmT7gYtfc14.0M68-QZ3HQYFnLAr6N3IQ.wOrkerS.deV"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/VKQiUREJ9PL5qHi1r4bkL9Rm8?ed=2560"
+      headers:
+        Host: "30f67sbq8jjwmt7gytfc14.0m68-qz3hqyfnlar6n3iq.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.creationlong.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.creationlong.org"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -102,6 +235,156 @@ proxies:
     type: trojan
     server: "127.0.0.1"
     port: 40443
+    password: "MITIVPN"
+    sni: "MiTiVPN---MiTiVPN-7.Maqror.ir"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/usa"
+      headers:
+        Host: "puuy-mitivpn--MiTiVPN---MiTiVPN-av.Maqror.ir"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "MiTiVPN"
+    sni: "g-o-MiTiVPN---MiTiVPNj.Maqror.ir"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/nl"
+      headers:
+        Host: "op-mitivpn--MiTiVPN---MiTiVPN-o.Maqror.ir"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "M7v%w11Se*"
+    sni: "qfdfsg.wsone.icu"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "ios"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.creationlong.org"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "ios"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.creationlong.org"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "kkzh2prsyr2ik47as615"
+    sni: "127.0.0.1"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "MiTiVPN"
+    sni: "swsjh--MiTiVPN---MiTiVPN-ao.kingnetwork.ir"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/sw"
+      headers:
+        Host: "swsjh--MiTiVPN---MiTiVPN-ao.kingnetwork.ir"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
     password: "humanity"
     sni: "Www.cReaTIOnLONG.OrG"
     skip-cert-verify: true
@@ -115,22 +398,294 @@ proxies:
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "MiTiVPN"
-    sni: "g-o-MiTiVPN---MiTiVPNj.aPp-cLoud.IR"
+    password: "humanity"
+    sni: "www.ignitelimit.com"
     skip-cert-verify: true
     udp: true
-    client-fingerprint: "chrome"
     network: ws
     ws-opts:
-      path: "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/nl"
+      path: "/assignment"
       headers:
-        Host: "op-mitivpn--MiTiVPN---MiTiVPN-o.aPp-cLoud.IR"
+        Host: "www.ignitelimit.com"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
     port: 40443
     password: "ba07a8af-5544-48ac-ab62-3b6c00a44fa6"
-    sni: "d.usj1.cat.bilibili.com"
+    sni: "hk.catxstar.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "d1960ba9f0f6353353994fa844cf817b"
+    sni: "www.nintendogames.net"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "ba07a8af-5544-48ac-ab62-3b6c00a44fa6"
+    sni: "hk.catxstar.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "521314"
+    sni: "tjplay.lxdxo.kdns.fr"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "tjplay.lxdxo.kdns.fr"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "521314"
+    sni: "tjplay.lxdxo.kdns.fr"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "tjplay.lxdxo.kdns.fr"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "41290c00-8515-11f1-aefe-1239d0255272"
+    sni: "chatbuzzteambhm.chatbuzzt7150.workers.dev"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "c206d543-023d-46cc-9d5a-1f0f2fc16323"
+    sni: "space.byu.id.yxls.eu.cc"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/in-pdr"
+      headers:
+        Host: "space.byu.id.yxls.eu.cc"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "127.0.0.1"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.multiplydose.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.multiplydose.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "1710442808"
+    sni: "subb.nrshop198.workers.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "subb.nrshop198.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "y3b03zx3tznhyo538p4c"
+    sni: "127.0.0.1"
     skip-cert-verify: true
     udp: true
   - name: "@rossinna77Github"
@@ -154,25 +709,12 @@ proxies:
     sni: "www.calmloud.com"
     skip-cert-verify: true
     udp: true
+    client-fingerprint: "chrome"
     network: ws
     ws-opts:
       path: "/assignment"
       headers:
         Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "MiTiVPN"
-    sni: "g-o-MiTiVPN---MiTiVPNj.kingnetwork.ir"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/nl"
-      headers:
-        Host: "op-mitivpn--MiTiVPN---MiTiVPN-o.kingnetwork.ir"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -190,19 +732,15 @@ proxies:
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "9ad83f65a560960e6509b677eb6162c1"
-    sni: "153.75.250.171.sslip.io"
+    password: "humanity"
+    sni: "www.ignitelimit.com"
     skip-cert-verify: true
     udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "ba07a8af-5544-48ac-ab62-3b6c00a44fa6"
-    sni: "hk.catxstar.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -211,26 +749,11 @@ proxies:
     sni: "www.gossipglove.com"
     skip-cert-verify: true
     udp: true
-    client-fingerprint: "android"
     network: ws
     ws-opts:
       path: "/assignment"
       headers:
         Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "f18d6149-e214-8554-e737-f7523c8b2eea"
-    sni: "0403.infinityconfig4.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/sync"
-      headers:
-        Host: "0403.infinityconfig4.workers.dev"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -249,14 +772,665 @@ proxies:
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "2bcfbfba-b446-4ad5-93ad-72af9e008f61"
-    sni: "support.zoom.us.blackshadow.dpdns.org"
+    password: "b0c94dd5-0c4c-6e1e-7ecf-84c386f7c748"
+    sni: "aged-silence-8d7d.tahaggs.workers.dev"
     skip-cert-verify: true
     udp: true
     client-fingerprint: "chrome"
     network: ws
     ws-opts:
-      path: "/195.123.218.174-443"
+      path: "/taha3"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.multiplydose.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.multiplydose.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.multiplydose.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.multiplydose.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.creationlong.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.creationlong.org"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "5xjmr1dz66pgsew0"
+    sni: "com.digitalposts.dpdns.org"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "firefox"
+    network: ws
+    ws-opts:
+      path: "/bkdicj"
+      headers:
+        Host: "com.digitalposts.dpdns.org"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "ios"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "M7v%w11Se*"
+    sni: "tttyder.wsone.icu"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "f18d6149-e214-8554-e737-f7523c8b2eea"
+    sni: "0403.infinityconfig4.workers.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/sync"
+      headers:
+        Host: "0403.infinityconfig4.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "M7v%w11Se*"
+    sni: "hyfuuf6.wsone.icu"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "HutaoCloud"
+    sni: "185.220.238.77"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/api"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "9ad83f65a560960e6509b677eb6162c1"
+    sni: "153.75.250.171.sslip.io"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.creationlong.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.creationlong.org"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.creationlong.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.creationlong.org"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "ios"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "MITIVPN"
+    sni: "ikk---7-MiTiVPN----o.kingnetwork.ir"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/de"
+      headers:
+        Host: "mitivpn---MiTiVPN---MiTiVPN.kingnetwork.ir"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "Telegram_healer_config"
+    sni: "30f67sBQ8jJwMt7GYtfc14.0M68-Qz3hqYfnLAR6n3Iq.wORkErs.dEv"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/hYgAqUlh5GyczDyXP?ed"
+      headers:
+        Host: "30f67sbq8jjwmt7gytfc14.0m68-qz3hqyfnlar6n3iq.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "d1960ba9f0f6353353994fa844cf817b"
+    sni: "www.nintendogames.net"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "A4u^p(_UR*F6"
+    sni: "027.eLECTROcelLCO-cf-027.WorKerS.Dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/eyJqdW5rIjoidDJ0UDljR2ZIaVBQakg2byIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0="
+      headers:
+        Host: "027.electrocellco-cf-027.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "ba07a8af-5544-48ac-ab62-3b6c00a44fa6"
+    sni: "hk.catxstar.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths"
+    sni: "127.0.0.1"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "d1960ba9f0f6353353994fa844cf817b"
+    sni: "www.nintendogames.net"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "127.0.0.1"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "1710442808"
+    sni: "subb.nrshop198.workers.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "subb.nrshop198.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "ba07a8af-5544-48ac-ab62-3b6c00a44fa6"
+    sni: "hk.catxstar.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "0ebb269c9f2d4e8e46b0cd4105a55134"
+    sni: "163.245.196.68.sslip.io"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "M7v%w11Se*"
+    sni: "hyfuuf6.wsone.icu"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -278,7 +1452,19 @@ proxies:
     sni: "www.calmloud.com"
     skip-cert-verify: true
     udp: true
-    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
     network: ws
     ws-opts:
       path: "/assignment"
@@ -292,7 +1478,6 @@ proxies:
     sni: "www.creationlong.org"
     skip-cert-verify: true
     udp: true
-    client-fingerprint: "chrome"
     network: ws
     ws-opts:
       path: "/assignment"
@@ -303,58 +1488,71 @@ proxies:
     server: "127.0.0.1"
     port: 40443
     password: "humanity"
-    sni: "www.gossipglove.com"
+    sni: "www.calmlunch.com"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
       path: "/assignment"
       headers:
-        Host: "www.gossipglove.com"
+        Host: "www.calmlunch.com"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "c206d543-023d-46cc-9d5a-1f0f2fc16323"
-    sni: "space.byu.id.yxls.eu.cc"
+    password: "MiTiVPN"
+    sni: "ib-bbg--MiTiVPN---MiTiVPN-u.kingnetwork.ir"
     skip-cert-verify: true
     udp: true
     client-fingerprint: "chrome"
     network: ws
     ws-opts:
-      path: "/in-pdr"
+      path: "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/fl"
       headers:
-        Host: "space.byu.id.yxls.eu.cc"
+        Host: "ni--mitivpn-MiTiVPN---MiTiVPN-s-.kingnetwork.ir"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths"
-    sni: "127.0.0.1"
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "kkzh2prsyr2ik47as615"
+    sni: "static.rutube.ru"
     skip-cert-verify: true
     udp: true
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "BxceQaOe"
-    sni: "127.0.0.1"
+    password: "6bd65120-8515-11f1-8fef-1239d0255272"
+    sni: "chatbuzzteambhm.chatbuzzt7150.workers.dev"
     skip-cert-verify: true
     udp: true
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "MITIVPN"
-    sni: "7ib-i--MiTiVPN---MiTiVPN-7.aPp-cLoud.IR"
+    password: "MiTiVPN"
+    sni: "swsjh--MiTiVPN---MiTiVPN-ao.Maqror.ir"
     skip-cert-verify: true
     udp: true
     client-fingerprint: "chrome"
     network: ws
     ws-opts:
-      path: "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/usa"
+      path: "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/sw"
       headers:
-        Host: "puuy-mitivpn--MiTiVPN---MiTiVPN-av.aPp-cLoud.IR"
+        Host: "swss-mitivpn--MiTiVPN---MiTiVPN--o.Maqror.ir"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -381,6 +1579,371 @@ proxies:
       path: "/assignment"
       headers:
         Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.creationlong.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.creationlong.org"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.multiplydose.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "//assignment"
+      headers:
+        Host: "www.multiplydose.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.creationlong.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.creationlong.org"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "Telegram_healer_config"
+    sni: "30F67SBQ8jJWMT7gytfc14.0m68-qZ3hqYFNlaR6n3Iq.WorKerS.Dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/MBHDTiG2ZHfgBBj9iEpRFkse0tafJ?ed=2560"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.multiplydose.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.multiplydose.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.creationlong.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.creationlong.org"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.creationlong.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.creationlong.org"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "Telegram_healer_config"
+    sni: "30F67SBQ8jJWMT7gytfc14.0m68-qZ3hqYFNlaR6n3Iq.WorKerS.Dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/MBHDTiG2ZHfgBBj9iEpRFkse0tafJ?ed=2560"
+      headers:
+        Host: "30f67sbq8jjwmt7gytfc14.0m68-qz3hqyfnlar6n3iq.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "ba07a8af-5544-48ac-ab62-3b6c00a44fa6"
+    sni: "r.kr1.cat.bilibili.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "d1960ba9f0f6353353994fa844cf817b"
+    sni: "www.nintendogames.net"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "5xjmr1dz66pgsew0"
+    sni: "com.digitalposts.dpdns.org"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "firefox"
+    network: ws
+    ws-opts:
+      path: "/bkdicj"
+      headers:
+        Host: "com.digitalposts.dpdns.org"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.multiplydose.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.multiplydose.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "ef70e170-7a23-11f1-a419-1239d0255272"
+    sni: "chatbuzzteambhm.chatbuzzt7150.workers.dev"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "pvZE3UfT0ziK1omVLlsjINBqeqqwab1M"
+    sni: "127.0.0.1"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "ios"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "kkzh2prsyr2ik47as615"
+    sni: "static.rutube.ru"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "ba07a8af-5544-48ac-ab62-3b6c00a44fa6"
+    sni: "de.catxstar.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.creationlong.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.creationlong.org"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -399,123 +1962,6 @@ proxies:
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "2eutknankxtbgkwcajzt"
-    sni: "193.148.19.213"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "19877587-ed94-4033-88cd-4ac50a5e8718"
-    sni: "dimskiee.biz.id"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/WangCai-8"
-      headers:
-        Host: "dimskiee.biz.id"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
     password: "humanity"
     sni: "www.calmlunch.com"
     skip-cert-verify: true
@@ -525,67 +1971,6 @@ proxies:
       path: "/assignment"
       headers:
         Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.creationlong.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.creationlong.org"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.creationlong.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.creationlong.org"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "1710442808"
-    sni: "subb.nrshop198.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "subb.nrshop198.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "41290c00-8515-11f1-aefe-1239d0255272"
-    sni: "chatbuzzteambhm.chatbuzzt7150.workers.dev"
-    skip-cert-verify: true
-    udp: true
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -594,7 +1979,139 @@ proxies:
     sni: "www.gossipglove.com"
     skip-cert-verify: true
     udp: true
-    client-fingerprint: "android"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.multiplydose.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.multiplydose.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.creationlong.org"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.creationlong.org"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.multiplydose.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "//assignment"
+      headers:
+        Host: "www.multiplydose.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "ios"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
     network: ws
     ws-opts:
       path: "/assignment"
@@ -613,6 +2130,402 @@ proxies:
       path: "/assignment"
       headers:
         Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "BxceQaOe"
+    sni: "t.me/ripaojiedian"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.creationlong.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.creationlong.org"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "c206d543-023d-46cc-9d5a-1f0f2fc16323"
+    sni: "space.byu.id.yxls.eu.cc"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/in-pdr"
+      headers:
+        Host: "space.byu.id.yxls.eu.cc"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "ba07a8af-5544-48ac-ab62-3b6c00a44fa6"
+    sni: "hk.catxstar.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "2eutknankxtbgkwcajzt"
+    sni: "193.148.19.213"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.multiplydose.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.multiplydose.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "ppmk"
+    sni: "flat-firefly-6022.rixewi3168.workers.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "flat-firefly-6022.rixewi3168.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "5c36ebc0-8515-11f1-af84-1239d0255272"
+    sni: "chatbuzzteambhm.chatbuzzt7150.workers.dev"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.creationlong.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.creationlong.org"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "bpb-trojan"
+    sni: "vless.herogoing.top"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/tr?ed=2560"
+      headers:
+        Host: "vless.herogoing.top"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.multiplydose.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "//assignment"
+      headers:
+        Host: "www.multiplydose.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "2f059d20-7d03-11f1-820b-1239d0255272"
+    sni: "chatbuzzteambhm.chatbuzzt7150.workers.dev"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.multiplydose.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.multiplydose.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.multiplydose.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.multiplydose.com"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -631,42 +2544,10 @@ proxies:
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
+    password: "BxceQaOe"
+    sni: "127.0.0.1"
     skip-cert-verify: true
     udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -698,280 +2579,6 @@ proxies:
     server: "127.0.0.1"
     port: 40443
     password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "f18d6149-e214-8554-e737-f7523c8b2eea"
-    sni: "0403.infinityconfig4.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/sync"
-      headers:
-        Host: "0403.infinityconfig4.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.creationlong.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.creationlong.org"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "a27cdec6-ade8-4152-b080-496fe7cc61b4"
-    sni: "cfn-aq7.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        Host: "cfn-aq7.pages.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "r137979f"
-    sni: "sheleqaz.emotionreza.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "sheleqaz.emotionreza.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "M7v%w11Se*"
-    sni: "hyfuuf6.wsone.icu"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.creationlong.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.creationlong.org"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
     sni: "www.ignitelimit.com"
     skip-cert-verify: true
     udp: true
@@ -985,28 +2592,24 @@ proxies:
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "humanity"
-    sni: "www.calmlunch.com"
+    password: "ba07a8af-5544-48ac-ab62-3b6c00a44fa6"
+    sni: "127.0.0.1"
     skip-cert-verify: true
     udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
     port: 40443
     password: "humanity"
-    sni: "www.creationlong.org"
+    sni: "www.multiplydose.com"
     skip-cert-verify: true
     udp: true
+    client-fingerprint: "chrome"
     network: ws
     ws-opts:
       path: "/assignment"
       headers:
-        Host: "www.creationlong.org"
+        Host: "www.multiplydose.com"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -1033,27 +2636,14 @@ proxies:
     server: "127.0.0.1"
     port: 40443
     password: "humanity"
-    sni: "www.calmlunch.com"
+    sni: "www.ignitelimit.com"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
       path: "/assignment"
       headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "521314"
-    sni: "tjplay.lxdxo.kdns.fr"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "tjplay.lxdxo.kdns.fr"
+        Host: "www.ignitelimit.com"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -1067,6 +2657,68 @@ proxies:
       path: "/assignment"
       headers:
         Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "ba07a8af-5544-48ac-ab62-3b6c00a44fa6"
+    sni: "hk.catxstar.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -1088,113 +2740,11 @@ proxies:
     sni: "www.calmloud.com"
     skip-cert-verify: true
     udp: true
-    client-fingerprint: "chrome"
     network: ws
     ws-opts:
       path: "/assignment"
       headers:
         Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "M7v%w11Se*"
-    sni: "dggg.wsone.icu"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "d1960ba9f0f6353353994fa844cf817b"
-    sni: "www.nintendogames.net"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "ba07a8af-5544-48ac-ab62-3b6c00a44fa6"
-    sni: "hk.catxstar.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "android"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "M7v%w11Se*"
-    sni: "hyfuuf6.wsone.icu"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "kkzh2prsyr2ik47as615"
-    sni: "127.0.0.1"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "M7v%w11Se*"
-    sni: "tttyder.wsone.icu"
-    skip-cert-verify: true
-    udp: true
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -1208,6 +2758,137 @@ proxies:
       path: "/assignment"
       headers:
         Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.creationlong.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.creationlong.org"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -1226,1154 +2907,7 @@ proxies:
     server: "127.0.0.1"
     port: 40443
     password: "MiTiVPN"
-    sni: "swsjh--MiTiVPN---MiTiVPN-ao.aPp-cLoud.IR"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/sw"
-      headers:
-        Host: "swss-mitivpn--MiTiVPN---MiTiVPN--o.aPp-cLoud.IR"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "0b5fa773-6f37-4134-87d4-0c349742b6f6"
-    sni: "app-538961.user-y0o4gm.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/cmh"
-      headers:
-        Host: "app-538961.user-y0o4gm.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.multiplydose.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.multiplydose.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "ba07a8af-5544-48ac-ab62-3b6c00a44fa6"
-    sni: "hk.catxstar.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "r137979f"
-    sni: "sheleqaz.emotionreza.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/?ed=2560"
-      headers:
-        Host: "sheleqaz.emotionreza.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "kkzh2prsyr2ik47as615"
-    sni: "static.rutube.ru"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "b0c94dd5-0c4c-6e1e-7ecf-84c386f7c748"
-    sni: "aged-silence-8d7d.tahaggs.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/taha3"
-      headers:
-        Host: "aged-silence-8d7d.tahaggs.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "ppmk"
-    sni: "flat-firefly-6022.rixewi3168.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "flat-firefly-6022.rixewi3168.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.creationlong.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.creationlong.org"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "ba07a8af-5544-48ac-ab62-3b6c00a44fa6"
-    sni: "hk.catxstar.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "ba07a8af-5544-48ac-ab62-3b6c00a44fa6"
-    sni: "hk.catxstar.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "c206d543-023d-46cc-9d5a-1f0f2fc16323"
-    sni: "space.byu.id.yxls.eu.cc"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/in-pdr"
-      headers:
-        Host: "space.byu.id.yxls.eu.cc"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "tsuchiya"
-    sni: "aa.ccmusic.jp"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.multiplydose.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.creationlong.org"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "ios"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.creationlong.org"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.multiplydose.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.multiplydose.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "5c36ebc0-8515-11f1-af84-1239d0255272"
-    sni: "chatbuzzteambhm.chatbuzzt7150.workers.dev"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.creationlong.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.creationlong.org"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.multiplydose.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.multiplydose.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "M7v%w11Se*"
-    sni: "qfdfsg.wsone.icu"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "ba07a8af-5544-48ac-ab62-3b6c00a44fa6"
-    sni: "hk.catxstar.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "0ebb269c9f2d4e8e46b0cd4105a55134"
-    sni: "163.245.196.68.sslip.io"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "ios"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.creationlong.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.creationlong.org"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "123444"
-    sni: "northrendserver.sherekontop.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "random"
-    network: ws
-    ws-opts:
-      path: "/?ed=2560"
-      headers:
-        Host: "northrendserver.sherekontop.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "ba07a8af-5544-48ac-ab62-3b6c00a44fa6"
-    sni: "127.0.0.1"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "ba07a8af-5544-48ac-ab62-3b6c00a44fa6"
-    sni: "hk.catxstar.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.multiplydose.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.multiplydose.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "1710442808"
-    sni: "subb.nrshop198.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "subb.nrshop198.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "MiTiVPN"
-    sni: "ib-bbg--MiTiVPN---MiTiVPN-u.kingnetwork.ir"
+    sni: "ib-bbg--MiTiVPN---MiTiVPN-.Maqror.ir"
     skip-cert-verify: true
     udp: true
     client-fingerprint: "chrome"
@@ -2381,19 +2915,7 @@ proxies:
     ws-opts:
       path: "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/fl"
       headers:
-        Host: "ni--mitivpn-MiTiVPN---MiTiVPN-s-.kingnetwork.ir"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "HutaoCloud"
-    sni: "185.220.238.77"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/api"
+        Host: "ni--mitivpn-MiTiVPN---MiTiVPN-s-.Maqror.ir"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -2407,6 +2929,67 @@ proxies:
       path: "/assignment"
       headers:
         Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "MITIVPN"
+    sni: "ikk---7-MiTiVPN----o.Maqror.ir"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/de"
+      headers:
+        Host: "11-mitivpn---MiTiVPN---MiTiVPN.Maqror.ir"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "2bcfbfba-b446-4ad5-93ad-72af9e008f61"
+    sni: "blackshadow.dpdns.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/195.123.218.174-443"
+      headers:
+        Host: "blackshadow.dpdns.org"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "ba07a8af-5544-48ac-ab62-3b6c00a44fa6"
+    sni: "hk.catxstar.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -2432,8 +3015,32 @@ proxies:
     network: ws
     ws-opts:
       path: "/assignment"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
       headers:
-        Host: "www.multiplydose.com"
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -2447,6 +3054,46 @@ proxies:
       path: "/assignment"
       headers:
         Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "Telegram_healer_config"
+    sni: "BjSa2yGFITzjtHo8ucZe29xf2m2q9C.G3FIAJpF0Erm9k3x6WW-YeGzl2.workeRs.dEV"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/J6IJuAAWkqyiEt8UkeRnVdLlkLIGukLr?ed=2560"
+      headers:
+        Host: "bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -2475,88 +3122,16 @@ proxies:
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "pvZE3UfT0ziK1omVLlsjINBqeqqwab1M"
-    sni: "139.59.238.97"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
     password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "ba07a8af-5544-48ac-ab62-3b6c00a44fa6"
-    sni: "hk.catxstar.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "MITIVPN"
-    sni: "ikk---7-MiTiVPN----o.aPp-cLoud.IR"
+    sni: "www.multiplydose.com"
     skip-cert-verify: true
     udp: true
     client-fingerprint: "chrome"
     network: ws
     ws-opts:
-      path: "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/de"
-      headers:
-        Host: "mitivpn---MiTiVPN---MiTiVPN.aPp-cLoud.IR"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "ba07a8af-5544-48ac-ab62-3b6c00a44fa6"
-    sni: "hk.catxstar.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "tsuchiya"
-    sni: "127.0.0.1"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
       path: "/assignment"
       headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "MiTiVPN"
-    sni: "ib-bbg--MiTiVPN---MiTiVPN-u.aPp-cLoud.IR"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/fl"
-      headers:
-        Host: "ni--mitivpn-MiTiVPN---MiTiVPN-s-.aPp-cLoud.IR"
+        Host: "www.multiplydose.com"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -2587,6 +3162,29 @@ proxies:
     type: trojan
     server: "127.0.0.1"
     port: 40443
+    password: "Telegram_healer_config"
+    sni: "7kDYlxxSIkw5RjLKHpdRHtX8.6nVgyHkobjke10qsu1s09HhYd4Iz4pv.WOrKERS.deV"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/tr/FPR2laikdYLiah29Tqdujf?ed=2560"
+      headers:
+        Host: "7kdylxxsikw5rjlkhpdrhtx8.6nvgyhkobjke10qsu1s09hhyd4iz4pv.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "2eutknankxtbgkwcajzt"
+    sni: "www.vk.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
     password: "humanity"
     sni: "www.gossipglove.com"
     skip-cert-verify: true
@@ -2596,6 +3194,374 @@ proxies:
       path: "/assignment"
       headers:
         Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "kkzh2prsyr2ik47as615"
+    sni: "static.rutube.ru"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "r137979f"
+    sni: "sheleqaz.emotionreza.workers.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "sheleqaz.emotionreza.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m"
+    sni: "grape-power-sg.roxa.org"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "d050aca3-9df2-4461-90ec-92373c1d7636"
+    sni: "v2jp.k1.ssnss.live"
+    skip-cert-verify: true
+    udp: true
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "123444"
+    sni: "northrendserver.sherekontop.workers.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "random"
+    network: ws
+    ws-opts:
+      path: "/?ed=2560"
+      headers:
+        Host: "northrendserver.sherekontop.workers.dev"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -2608,29 +3574,16 @@ proxies:
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "y3b03zx3tznhyo538p4c"
-    sni: "127.0.0.1"
+    password: "ba07a8af-5544-48ac-ab62-3b6c00a44fa6"
+    sni: "de.catxstar.com"
     skip-cert-verify: true
     udp: true
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "6bd65120-8515-11f1-8fef-1239d0255272"
-    sni: "chatbuzzteambhm.chatbuzzt7150.workers.dev"
+    password: "d1960ba9f0f6353353994fa844cf817b"
+    sni: "www.nintendogames.net"
     skip-cert-verify: true
     udp: true
   - name: "@rossinna77Github"
@@ -2646,19 +3599,6 @@ proxies:
     server: "127.0.0.1"
     port: 40443
     password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
     sni: "www.ignitelimit.com"
     skip-cert-verify: true
     udp: true
@@ -2686,68 +3626,6 @@ proxies:
     server: "127.0.0.1"
     port: 40443
     password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "ios"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "ba07a8af-5544-48ac-ab62-3b6c00a44fa6"
-    sni: "127.0.0.1"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
     sni: "www.calmlunch.com"
     skip-cert-verify: true
     udp: true
@@ -2756,6 +3634,73 @@ proxies:
       path: "/assignment"
       headers:
         Host: "www.calmlunch.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.creationlong.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.creationlong.org"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.creationlong.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.creationlong.org"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -2778,11 +3723,20 @@ proxies:
     sni: "www.multiplydose.com"
     skip-cert-verify: true
     udp: true
+    client-fingerprint: "chrome"
     network: ws
     ws-opts:
-      path: "//assignment"
+      path: "/assignment"
       headers:
         Host: "www.multiplydose.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "d1960ba9f0f6353353994fa844cf817b"
+    sni: "www.nintendogames.net"
+    skip-cert-verify: true
+    udp: true
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -2801,20 +3755,20 @@ proxies:
     server: "127.0.0.1"
     port: 40443
     password: "humanity"
-    sni: "www.ignitelimit.com"
+    sni: "www.creationlong.org"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
       path: "/assignment"
       headers:
-        Host: "www.ignitelimit.com"
+        Host: "www.creationlong.org"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
     port: 40443
     password: "humanity"
-    sni: "www.ignitelimit.com"
+    sni: "www.calmloud.com"
     skip-cert-verify: true
     udp: true
     client-fingerprint: "chrome"
@@ -2822,85 +3776,15 @@ proxies:
     ws-opts:
       path: "/assignment"
       headers:
-        Host: "www.ignitelimit.com"
+        Host: "www.calmloud.com"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
     port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
+    password: "BxceQaOe"
+    sni: "t.me/ripaojiedian"
     skip-cert-verify: true
     udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "kkzh2prsyr2ik47as615"
-    sni: "static.rutube.ru"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "2f059d20-7d03-11f1-820b-1239d0255272"
-    sni: "chatbuzzteambhm.chatbuzzt7150.workers.dev"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "19877587-ed94-4033-88cd-4ac50a5e8718"
-    sni: "dimskiee.biz.id"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/WangCai-8"
-      headers:
-        Host: "dimskiee.biz.id"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "ba07a8af-5544-48ac-ab62-3b6c00a44fa6"
-    sni: "hk.catxstar.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -2920,14 +3804,65 @@ proxies:
     server: "127.0.0.1"
     port: 40443
     password: "humanity"
-    sni: "www.creationlong.org"
+    sni: "www.ignitelimit.com"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
       path: "/assignment"
       headers:
-        Host: "www.creationlong.org"
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "0b5fa773-6f37-4134-87d4-0c349742b6f6"
+    sni: "app-538961.user-y0o4gm.workers.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/cmh"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "5xjmr1dz66pgsew0"
+    sni: "com.digitalposts.dpdns.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/bkdicj"
+      headers:
+        Host: "com.digitalposts.dpdns.org"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -2936,6 +3871,7 @@ proxies:
     sni: "www.calmloud.com"
     skip-cert-verify: true
     udp: true
+    client-fingerprint: "chrome"
     network: ws
     ws-opts:
       path: "/assignment"
@@ -2954,6 +3890,88 @@ proxies:
       path: "/assignment"
       headers:
         Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.calmloud.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmloud.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "android"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "android"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@rossinna77Github"
+    type: trojan
+    server: "127.0.0.1"
+    port: 40443
+    password: "humanity"
+    sni: "www.ignitelimit.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.ignitelimit.com"
   - name: "@rossinna77Github"
     type: trojan
     server: "127.0.0.1"
@@ -2999,59 +4017,6 @@ proxies:
     server: "127.0.0.1"
     port: 40443
     password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "Mehdi1234"
-    sni: "purple-recipe-5e30.cimavo4626.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "purple-recipe-5e30.cimavo4626.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "A4u^p(_UR*F6"
-    sni: "027.eLECTROcelLCO-cf-027.WorKerS.Dev"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/eyJqdW5rIjoidDJ0UDljR2ZIaVBQakg2byIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0="
-      headers:
-        Host: "027.electrocellco-cf-027.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.creationlong.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.creationlong.org"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
     sni: "www.gossipglove.com"
     skip-cert-verify: true
     udp: true
@@ -3065,858 +4030,10 @@ proxies:
     server: "127.0.0.1"
     port: 40443
     password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m"
-    sni: "grape-power-sg.roxa.org"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.multiplydose.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.multiplydose.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "127.0.0.1"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.creationlong.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.creationlong.org"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.creationlong.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.creationlong.org"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "ba07a8af-5544-48ac-ab62-3b6c00a44fa6"
-    sni: "de.catxstar.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.creationlong.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.creationlong.org"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "ef70e170-7a23-11f1-a419-1239d0255272"
-    sni: "chatbuzzteambhm.chatbuzzt7150.workers.dev"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.multiplydose.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "//assignment"
-      headers:
-        Host: "www.multiplydose.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "ba07a8af-5544-48ac-ab62-3b6c00a44fa6"
-    sni: "127.0.0.1"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.creationlong.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.creationlong.org"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "ba07a8af-5544-48ac-ab62-3b6c00a44fa6"
-    sni: "hk.catxstar.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
     sni: "www.creationlong.org"
     skip-cert-verify: true
     udp: true
     client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.creationlong.org"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "ios"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.creationlong.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.creationlong.org"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "521314"
-    sni: "tjplay.lxdxo.kdns.fr"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "tjplay.lxdxo.kdns.fr"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.multiplydose.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.multiplydose.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "MiTiVPN"
-    sni: "swsjh--MiTiVPN---MiTiVPN-ao.kingnetwork.ir"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/sw"
-      headers:
-        Host: "swss-mitivpn--MiTiVPN---MiTiVPN--o.kingnetwork.ir"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "MITIVPN"
-    sni: "ikk---7-MiTiVPN----o.Maqror.ir"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/de"
-      headers:
-        Host: "11-mitivpn---MiTiVPN---MiTiVPN.Maqror.ir"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "Telegram_healer_config"
-    sni: "7kDYlxxSIkw5RjLKHpdRHtX8.6nVgyHkobjke10qsu1s09HhYd4Iz4pv.WOrKERS.deV"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/tr/FPR2laikdYLiah29Tqdujf?ed=2560"
-      headers:
-        Host: "7kdylxxsikw5rjlkhpdrhtx8.6nvgyhkobjke10qsu1s09hhyd4iz4pv.workers.dev"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "ba07a8af-5544-48ac-ab62-3b6c00a44fa6"
-    sni: "de.catxstar.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.multiplydose.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.multiplydose.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "d1960ba9f0f6353353994fa844cf817b"
-    sni: "www.nintendogames.net"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "ios"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "2eutknankxtbgkwcajzt"
-    sni: "www.vk.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "kkzh2prsyr2ik47as615"
-    sni: "static.rutube.ru"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "ba07a8af-5544-48ac-ab62-3b6c00a44fa6"
-    sni: "hk.catxstar.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.multiplydose.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.multiplydose.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmloud.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmloud.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.multiplydose.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "//assignment"
-      headers:
-        Host: "www.multiplydose.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.creationlong.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.creationlong.org"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.multiplydose.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.multiplydose.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.creationlong.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.creationlong.org"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "521314"
-    sni: "tjplay.lxdxo.kdns.fr"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "Telegram"
-      headers:
-        Host: "tjplay.lxdxo.kdns.fr"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.ignitelimit.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.ignitelimit.com"
-  - name: "@rossinna77Github"
-    type: trojan
-    server: "127.0.0.1"
-    port: 40443
-    password: "humanity"
-    sni: "www.creationlong.org"
-    skip-cert-verify: true
-    udp: true
     network: ws
     ws-opts:
       path: "/assignment"
@@ -3964,6 +4081,14 @@ proxy-groups:
     tolerance: 150
     lazy: true
     proxies:
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
       - "@rossinna77Github"
       - "@rossinna77Github"
       - "@rossinna77Github"
@@ -4593,6 +4718,14 @@ proxy-groups:
       - "@rossinna77Github"
       - "@rossinna77Github"
       - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
 
   # ── Fastest-proxy groups ──────────────────────────────────────────────────
   - name: "FAST-ALL"
@@ -4912,6 +5045,14 @@ proxy-groups:
       - "@rossinna77Github"
       - "@rossinna77Github"
       - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
 
   - name: "FAST-CDN"
     type: url-test
@@ -4920,6 +5061,14 @@ proxy-groups:
     tolerance: 50
     lazy: true
     proxies:
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
       - "@rossinna77Github"
       - "@rossinna77Github"
       - "@rossinna77Github"
@@ -5549,11 +5698,27 @@ proxy-groups:
       - "@rossinna77Github"
       - "@rossinna77Github"
       - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
 
   # ── Manual selector ───────────────────────────────────────────────────────
   - name: "MANUAL"
     type: select
     proxies:
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
+      - "@rossinna77Github"
       - "@rossinna77Github"
       - "@rossinna77Github"
       - "@rossinna77Github"
